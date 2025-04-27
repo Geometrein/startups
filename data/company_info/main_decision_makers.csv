@@ -1,0 +1,1004 @@
+business_id,decision_person_id,office_id,position_id,position_text,first_name,last_name,gender,status_id,prh_id,mbs_id,responsibilities,responsibilities_text
+26841051,3098149145,3071139,2005,hallituksen puheenjohtaja,Sami,Arola,M,A,-10117889,255609331,50101,Toimipaikan ylin johto
+30192269,2765827651,3320776,2011,toimitusjohtaja,Jussi,Virnala,M,A,1431375,255571396,50101,Toimipaikan ylin johto
+30192269,5254908321,3320776,2216,kehityspäällikkö,Henry,Huovari,M,A,,256018177,50107,Liiketoiminnan kehitys
+30192269,5254908336,3320776,2941,asiakkuusjohtaja,Valtteri,Miettinen,M,A,,256018178,50103,Myynnistä vastaava
+30192269,6124270253,3320776,2641,head of engineering,Jaakko,Erkamo,M,A,,256177719,50101,Toimipaikan ylin johto
+30192269,6124270262,3320776,2941,myyntijohtaja,Mikael,Pennanen,M,A,,256177720,50103,Myynnistä vastaava
+26919568,5764479619,3079079,2011,toimitusjohtaja,Juha,Romppanen,M,A,-11099640,256125393,50101,Toimipaikan ylin johto
+29386576,2271474399,3244157,2011,toimitusjohtaja,Marko,Pajula,M,A,1784859,255501725,50101,Toimipaikan ylin johto
+34685335,5745290807,4131488,2011,toimitusjohtaja,Björn,Hammar,M,A,-10062107,256116635,50101,Toimipaikan ylin johto
+29105543,2005309608,3224325,2011,toimitusjohtaja,Richard,Nordström,M,A,-11110431,255458524,50101,Toimipaikan ylin johto
+29105543,5137709116,3224325,2931,markkinointijohtaja,Olli,Gunst,M,A,,255992233,50105;50310,Markkinoinnista vastaava;Media/mainontapalvelut
+27460648,2865796271,3124791,2005,hallituksen puheenjohtaja,Juuso,Virtala,M,A,1582889,255585719,50101,Toimipaikan ylin johto
+34696595,5769866715,4133313,2011,toimitusjohtaja,Jonathan,Atwood,M,A,3595022,256126676,50101,Toimipaikan ylin johto
+33928593,5181174627,4044801,2011,toimitusjohtaja,Salla,Mankinen,F,A,-11110655,256002715,50101,Toimipaikan ylin johto
+27905635,1249474282,3148287,2011,toimitusjohtaja,Virpi,Korhonen,F,A,-10698777,253015242,50101,Toimipaikan ylin johto
+29484264,2335622578,3252888,2011,toimitusjohtaja,Tuomas,Nurmela,M,A,-11031725,255509578,50101,Toimipaikan ylin johto
+30010496,2660161865,3300942,2005,hallituksen puheenjohtaja,Roy,Nurmi,M,A,-10327527,255556434,50101,Toimipaikan ylin johto
+31356587,3170658881,3486144,2011,toimitusjohtaja,Jaakko,Rauhala,M,A,2799094,255617881,50101,Toimipaikan ylin johto
+31356587,5759303488,3486144,2632,product manager,Markus,Olander,U,A,,256123893,,
+31356587,5759303495,3486144,2152,real estate manager,Teemu,Jalomäki,U,A,,256123894,,
+31356587,5759303502,3486144,3612,environmental manager,Tuomas,Helin,U,A,,256123895,,
+27654119,2238974437,3129030,2011,toimitusjohtaja,Arto,Koivuharju,M,A,-10378772,255496753,50101,Toimipaikan ylin johto
+28152858,1402128902,3161587,2012,varatoimitusjohtaja,Jouko,Lång,M,A,-11075364,254037893,50101,Toimipaikan ylin johto
+33993803,5242867497,4052408,2011,toimitusjohtaja,Lauri,Sippola,M,A,1142621,256015946,50101,Toimipaikan ylin johto
+31883467,3569927299,3564354,2011,toimitusjohtaja,Veikko,Salli,M,A,-10452062,255665185,50101,Toimipaikan ylin johto
+26900592,713149993,3077437,2011,toimitusjohtaja,Max,Schauman,M,A,-11051801,245297540,50101,Toimipaikan ylin johto
+31820255,3528726255,3556648,2011,toimitusjohtaja,Mikael,Suovirta,M,A,2651888,255657584,50101,Toimipaikan ylin johto
+30183733,2743009850,3319811,2011,toimitusjohtaja,Mona,Taponen,F,A,2060463,255568626,50101,Toimipaikan ylin johto
+28535349,1697674573,3185403,2005,hallituksen puheenjohtaja,Jere-Janne,Seppälä,M,A,-10569773,255150580,50101,Toimipaikan ylin johto
+28535349,1697674582,3185403,2011,toimitusjohtaja,Tero-Teemu,Seppälä,M,A,-11140902,255150581,50101,Toimipaikan ylin johto
+31187461,3027059368,3363096,2011,toimitusjohtaja,Tuomas,Ilander,M,A,-11279686,255601864,50101,Toimipaikan ylin johto
+28758753,1842800469,3199989,2011,toimitusjohtaja,Andras,Vajda,U,A,2212954,255423965,50101,Toimipaikan ylin johto
+28335785,1534718757,3173371,2005,hallituksen puheenjohtaja,Jouni,Kukkonen,M,A,1077179,254573888,50101,Toimipaikan ylin johto
+27527259,1046499743,3119681,2011,toimitusjohtaja,Nadine,Pesonen,F,A,1764410,251382714,50101,Toimipaikan ylin johto
+27345463,3877845787,3109889,2011,toimitusjohtaja,Heidi,Wik,F,A,-10693696,255714441,50101,Toimipaikan ylin johto
+29321668,5785606306,3240302,2011,toimitusjohtaja,Kalle,Ek,M,A,1122339,256129608,50101,Toimipaikan ylin johto
+29294938,3123059693,3238523,2011,toimitusjohtaja,Henri,Kemppinen,M,A,1194277,255611946,50101,Toimipaikan ylin johto
+26898218,713152814,3077186,2011,toimitusjohtaja,Panu,Vapaavalta,M,A,-10262215,245297833,50101,Toimipaikan ylin johto
+33267684,4649587027,3944591,2011,toimitusjohtaja,Tapio,Vehmas,M,A,3342158,255883031,50101,Toimipaikan ylin johto
+29132242,2079552071,3226330,2012,varatoimitusjohtaja,Rami,Niemi,M,A,-11214930,255471095,50101,Toimipaikan ylin johto
+29132242,4025245270,3226330,2011,toimitusjohtaja,Erika,Salmenvaara,F,A,-11183023,255733436,50101,Toimipaikan ylin johto
+32309475,4622487519,3644956,2005,hallituksen puheenjohtaja,Aron,von Kraemer,M,A,2610342,255877715,50101,Toimipaikan ylin johto
+31575544,3343194569,3515227,2011,toimitusjohtaja,Ossi,Paija,M,A,-11073505,255635097,50101,Toimipaikan ylin johto
+34307756,5525060030,4088875,2011,toimitusjohtaja,Reidar,Wasenius,M,A,-10220718,256069479,50101,Toimipaikan ylin johto
+29357054,2241841728,3242404,2011,toimitusjohtaja,Kimmo,Kuokkanen,M,A,1062243,255497256,50101,Toimipaikan ylin johto
+28176569,1645582432,3162208,2011,toimitusjohtaja,Timo,Teimonen,M,A,-10464245,254933652,50101,Toimipaikan ylin johto
+32355893,5775067825,3662688,2011,toimitusjohtaja,Andreas,Stenman,M,A,3187769,256127801,50101,Toimipaikan ylin johto
+26816366,3789121689,3068261,2011,toimitusjohtaja,Petri,Häkkinen,M,A,1052560,255705213,50101,Toimipaikan ylin johto
+27665037,3728034890,3129886,2621,CTO,Tapani,Ryhänen,M,A,,255696590,50101;50102;50106;50107;50701;50702,Toimipaikan ylin johto;Taloudesta vastaava;Henkilöstö- ja hallintoasioista vastaava;Liiketoiminnan kehitys;Tuotanto;Tuotannon automaatio
+27665037,5787390235,3129886,2011,toimitusjohtaja,Sami,Kyllönen,M,A,1113237,256129969,50101,Toimipaikan ylin johto
+27665037,5831355653,3129886,2941,head of sales,Joe,Lopez,U,A,,256142132,,
+27665037,5880619650,3129886,2050,office manager,Katri,Moran,U,A,,256150967,,
+34380216,5525060205,4097436,2011,toimitusjohtaja,Hannu,Kauppinen,M,A,-10533460,256069498,50101,
+34380216,5773335644,4097436,2005,hallituksen puheenjohtaja,Jussi,Kallasvuo,M,A,-10673875,256127367,50101,
+32024533,3731228446,3578840,2011,toimitusjohtaja,Thomas,Tallskog,M,A,-10418077,255696962,50101,Toimipaikan ylin johto
+29180041,3426272181,3230049,2011,toimitusjohtaja,Kaj,Seeste,M,A,2115676,255646011,50101,Toimipaikan ylin johto
+32813946,4297463632,3810667,2011,toimitusjohtaja,Jussi,Koivisto,M,A,3198377,255807559,50101,Toimipaikan ylin johto
+28433393,1620466011,3179399,2011,toimitusjohtaja,Matti,Tommiska,M,A,-10083991,254895008,50101,Toimipaikan ylin johto
+28433393,1620466020,3179399,2005,hallituksen puheenjohtaja,Kimmo,Järvinen,M,A,2105844,254895009,50101,Toimipaikan ylin johto
+28433393,5759299897,3179399,2932,marketing manager,Mimmi,Kuusisaari,U,A,,256123531,,
+28433393,5759299904,3179399,2301,chief revenue officer,Tommi,Lampila,U,A,,256123532,,
+28433393,5759299911,3179399,3112,system architect,Tuomo,Tarvainen,U,A,,256123533,,
+32079657,3713584766,3584841,2005,hallituksen puheenjohtaja,Tero,Salminen,M,A,-11074160,255694035,50101,Toimipaikan ylin johto
+32079657,3713584775,3584841,2011,toimitusjohtaja,Mikko,Hytönen,M,A,-10984984,255694036,50101,Toimipaikan ylin johto
+28772846,1884288883,3200966,2011,toimitusjohtaja,Patrik,Sandqvist,M,A,1115086,255431364,50101,Toimipaikan ylin johto
+28222051,4731097399,3166200,2005,hallituksen puheenjohtaja,Tomi,Laaksola,M,A,-11182709,255903292,50101,Toimipaikan ylin johto
+29729524,2447689413,3264867,2011,toimitusjohtaja,Mikael,Matveinen,M,A,2478717,255524960,50101,Toimipaikan ylin johto
+31294371,3108888164,3382532,2005,hallituksen puheenjohtaja,Kim-Peter,Siefen,M,A,2773695,255610614,50101,Toimipaikan ylin johto
+31294371,4299061245,3382532,2011,toimitusjohtaja,Antti,Moilanen,M,A,2773696,255807882,50101,Toimipaikan ylin johto
+31528908,3304240712,3509866,2011,toimitusjohtaja,Uzair,Khan,M,A,2868694,255631041,50101,Toimipaikan ylin johto
+27200432,757570679,3100666,2011,toimitusjohtaja,Noora,Laitio,F,A,1645013,246493163,50101,Toimipaikan ylin johto
+33001528,4439264063,3845095,2011,toimitusjohtaja,Jaana,Ylikoski,F,A,3049956,255841366,50101,Toimipaikan ylin johto
+26748973,663539424,3062401,2011,toimitusjohtaja,Risto,Jalovaara,M,A,-10304298,242354726,50102;50101;50103;50105;50106;50304;50306;50307;50501;50502,Taloudesta vastaava;Toimipaikan ylin johto;Myynnistä vastaava;Markkinoinnista vastaava;Henkilöstö- ja hallintoasioista vastaava;Liikelahjat;Toimistoautomaatio;Henkilöautot;Tietohallinto;Tietotekniikka
+26748973,2654052862,3062401,2005,hallituksen puheenjohtaja,Matti,Kurki,M,A,-10167837,255556030,50107,Liiketoiminnan kehitys
+26748973,3908510408,3062401,2231,CFO,Kirsi,Eronen,F,A,,255718356,50102;50106,Taloudesta vastaava;Henkilöstö- ja hallintoasioista vastaava
+27343935,865435428,3109751,2011,toimitusjohtaja,Timo,Soukka,M,A,1694786,249340270,50101,Toimipaikan ylin johto
+32447245,4009000284,3688021,2006,hallituksen jäsen,Jaan,Apajalahti,M,A,-10219530,255732106,50101,Toimipaikan ylin johto
+33789482,5082620803,4026806,2011,toimitusjohtaja,Jasu,Koponen,M,A,1173031,255981363,50101,Toimipaikan ylin johto
+27714134,6004428732,3134267,2011,toimitusjohtaja,Shilei,Zhang,U,A,2410098,256162302,50101,Toimipaikan ylin johto
+29316586,3034852945,3240039,2011,toimitusjohtaja,Taras,Zagibalov,M,A,2749055,255602487,50101,Toimipaikan ylin johto
+28524228,1847110684,3184834,2011,toimitusjohtaja,Jani,Vähäsöyrinki,M,A,2188802,255424712,50101,Toimipaikan ylin johto
+28524228,4220066512,3184834,2145,operatiivinen johtaja,Aura,Lehtonen,U,A,,255789162,50107,Liiketoiminnan kehitys
+28524228,4220066545,3184834,3022,palvelupäällikkö,Karoliina,Turta,F,A,,255789165,50113,Asiakaspalvelusta vastaava
+28524228,4220066554,3184834,2972,vientipäällikkö,Tuomo,Röppänen,M,A,,255789166,50101,Toimipaikan ylin johto
+28524228,4220066576,3184834,2005,hallituksen puheenjohtaja,Hannu,Saarinen,M,A,,255789168,50101,Toimipaikan ylin johto
+28524228,5237631376,3184834,2942,myyntipäällikkö,Vesa,Viitamäki,M,A,,256014579,50103,Myynnistä vastaava
+27617449,3067108771,3126516,2011,toimitusjohtaja,Jari,Kukkonen,M,A,-10271907,255605185,50101,Toimipaikan ylin johto
+27122841,1355135073,3096500,2011,toimitusjohtaja,Kaapo,Annala,M,A,-10576467,253796498,50101,Toimipaikan ylin johto
+31307232,3129271143,3390552,2011,toimitusjohtaja,Harri,Martinmäki,M,A,-10762257,255612768,50101,Toimipaikan ylin johto
+34261049,5422753637,4083088,2011,toimitusjohtaja,Laura,Nevanlinna,F,A,-11062685,256050375,50101,Toimipaikan ylin johto
+27254203,4803232333,3104043,2011,toimitusjohtaja,Rasmus,Wikström,M,A,-10975968,255917598,50101,Toimipaikan ylin johto
+34031649,5309290529,4054507,2005,hallituksen puheenjohtaja,Pekka,Karppanen,M,A,1191183,256028484,50101,Toimipaikan ylin johto
+27631726,1049122454,3127518,2011,toimitusjohtaja,Elina,Liehu,F,A,-10618817,251403192,50101,Toimipaikan ylin johto
+29686528,2437299240,3263723,2011,toimitusjohtaja,Topias,Nurminen,M,A,-11252642,255523457,50101,Toimipaikan ylin johto
+31267824,3079425131,3376283,2011,toimitusjohtaja,Minna,Eloranta,F,A,1215217,255606848,50101,Toimipaikan ylin johto
+26935453,1237213713,3080146,2011,toimitusjohtaja,Matti,Lamminsalo,M,A,1090069,252862086,50101,Toimipaikan ylin johto
+27967967,1294827911,3151816,2011,toimitusjohtaja,Sari,Siitonen,F,A,-10409718,253417379,50101,Toimipaikan ylin johto
+27642847,4832482500,3128273,2011,toimitusjohtaja,Juha,Koponen,M,A,-11158509,255929843,50101,Toimipaikan ylin johto
+34894065,5912300011,4153161,2011,toimitusjohtaja,Henri,Kasurinen,M,A,3606873,256155113,50101,Toimipaikan ylin johto
+30219222,2779405050,3323856,2011,toimitusjohtaja,Juha,Stenberg,M,A,-10840488,255575334,50101,Toimipaikan ylin johto
+30219222,3686398643,3323856,2005,hallituksen puheenjohtaja,Torsti,Tenhunen,M,A,-10104280,255687914,50101,Toimipaikan ylin johto
+27238414,787200426,3104117,2011,toimitusjohtaja,Hans,Friis,M,A,-10556609,247607150,50101,Toimipaikan ylin johto
+31448801,3261177479,3497876,2011,toimitusjohtaja,Eetu,Valjakka,M,A,2405598,255626962,50101,Toimipaikan ylin johto
+26769715,713231541,3063799,2005,hallituksen puheenjohtaja,Marko,Heiskanen,M,A,-10587476,245306094,50101,Toimipaikan ylin johto
+26769715,2776470907,3063799,2011,toimitusjohtaja,Juho,Niemistö,M,A,-10689822,255574790,50101,Toimipaikan ylin johto
+26917781,714495277,3078924,2011,toimitusjohtaja,Jaakko,Salmijärvi,M,A,-10990050,245586146,50101,Toimipaikan ylin johto
+27847551,1646943516,3144635,2011,toimitusjohtaja,Joni,Korppi,M,A,-10668129,254944772,50101,Toimipaikan ylin johto
+27392227,893464452,3112681,2011,toimitusjohtaja,Joose,Viljanen,M,A,-10548345,249676497,50101,Toimipaikan ylin johto
+27392227,4262820178,3112681,2005,hallituksen puheenjohtaja,Anssi,Sallinen,M,A,-10826361,255798381,50101,Toimipaikan ylin johto
+31383892,3216669676,3495817,2011,toimitusjohtaja,Tuomas,Rasila,M,A,-10987392,255622934,50101,Toimipaikan ylin johto
+31383892,4627631854,3495817,2005,hallituksen puheenjohtaja,Antti,Lehtimäki,M,A,,255879004,50101,Toimipaikan ylin johto
+34560575,5647318202,4120521,2011,toimitusjohtaja,Suvi,Haimi,F,A,1617426,256101259,50101,Toimipaikan ylin johto
+28304719,3181393456,3171364,2011,toimitusjohtaja,Jussi,Aronen,M,A,-10395707,255618984,50101,Toimipaikan ylin johto
+27830354,1224603327,3143397,2011,toimitusjohtaja,Kaisu,Borgman,F,A,1568657,252697922,50101,Toimipaikan ylin johto
+27138966,747078679,3097358,2006,hallituksen jäsen,Kari,Oksanen,M,A,-10738241,246304801,50101,Toimipaikan ylin johto
+27138966,2664559115,3097358,2005,hallituksen puheenjohtaja,Jarkko,Oksanen,M,A,1110213,255556863,50101,Toimipaikan ylin johto
+29063371,2073842357,3221347,2011,toimitusjohtaja,Ville,Ilkkala,M,A,-11184872,255470036,50101,Toimipaikan ylin johto
+27870495,1239871765,3146270,2005,hallituksen puheenjohtaja,Jukka,Kariniemi,M,A,-10524400,252890652,50101,Toimipaikan ylin johto
+31620309,3378853448,3521321,2011,toimitusjohtaja,Alexander,Slesarev,M,A,2902157,255641272,50101,Toimipaikan ylin johto
+26856165,714488314,3073244,2011,toimitusjohtaja,Ville,Tenkanen,M,A,-10576981,245585388,50101,Toimipaikan ylin johto
+28793794,3514405559,3202434,2011,toimitusjohtaja,Sara,Tiittanen,F,A,2199810,255656052,50101,Toimipaikan ylin johto
+32951767,4390446165,3836461,2011,toimitusjohtaja,Jaakko,Hartikainen,M,A,-10873168,255832359,50101,Toimipaikan ylin johto
+31184471,3014809602,3362383,2011,toimitusjohtaja,Antti,Mäkikyrö,M,A,-10578713,255600617,50101,Toimipaikan ylin johto
+27687391,1083106268,3131772,2011,toimitusjohtaja,Tommi,Järvinen,M,A,-10631602,251696071,50101,Toimipaikan ylin johto
+28134502,1399445583,3160353,2011,toimitusjohtaja,Elina,Arponen,F,A,1020513,254022583,50101,Toimipaikan ylin johto
+28134502,1399445592,3160353,2005,hallituksen puheenjohtaja,Ville-Kalle,Arponen,M,A,-11081810,254022584,50101,Toimipaikan ylin johto
+28088817,6143584523,3158504,2011,toimitusjohtaja,Satu,Kuusinen,F,A,1172348,256180174,50101,Toimipaikan ylin johto
+32809955,4375526930,3810112,2005,hallituksen puheenjohtaja,Tuomo,Aartolahti,M,A,-10539072,255828828,50101,Toimipaikan ylin johto
+32809955,4484102028,3810112,2011,toimitusjohtaja,Lasse,Harju,M,A,1044495,255849911,50101,Toimipaikan ylin johto
+28496888,1663897568,3183310,2011,toimitusjohtaja,Mikko,Juntunen,M,A,-10860516,255010200,50101,Toimipaikan ylin johto
+28496888,5831356449,3183310,2621,cto,Antti,Haarahiltunen,U,A,,256142222,,
+28496888,6009605221,3183310,2232,controller,Susanna,Heinlahti,U,A,,256162800,,
+30108485,2693217508,3311607,2011,toimitusjohtaja,Johannes,Söderström,M,A,-11103040,255561013,50101,Toimipaikan ylin johto
+29521029,5654192429,3256193,2005,hallituksen puheenjohtaja,Sami,Halonen,M,A,1071374,256102567,50101,Toimipaikan ylin johto
+33164589,4573977643,3872977,2005,hallituksen puheenjohtaja,Jan,Valkonen,M,A,-10063282,255867821,50101,Toimipaikan ylin johto
+29616888,3403791853,3261417,2005,hallituksen puheenjohtaja,Mikko,Välimäki,M,A,-10578529,255643729,50101,Toimipaikan ylin johto
+29616888,6046569592,3261417,2011,toimitusjohtaja,Sami,Hero,M,A,-10040005,256168201,50101,Toimipaikan ylin johto
+32212913,5001118935,3609248,2005,hallituksen puheenjohtaja,Matti,Rautkivi,M,A,-11163003,255965982,50101,Toimipaikan ylin johto
+31237764,3087201932,3371704,2011,toimitusjohtaja,Kalle,Kotilahti,M,A,-10957011,255607978,50101,Toimipaikan ylin johto
+31237764,3087201941,3371704,2005,hallituksen puheenjohtaja,Tommi,Pätilä,M,A,2351734,255607979,50101,Toimipaikan ylin johto
+31846252,4023679358,3559209,2005,hallituksen puheenjohtaja,Pekka,Siivonen-Uotila,M,A,-10189634,255733286,50101,Toimipaikan ylin johto
+31846252,4719037061,3559209,2011,toimitusjohtaja,Kaisa,Karhunen,F,A,3030790,255899971,50101,Toimipaikan ylin johto
+31206474,3640083103,3366398,2005,hallituksen puheenjohtaja,Otto,Virta,M,A,-10719592,255679546,50101,Toimipaikan ylin johto
+34062867,5273184074,4056980,2011,toimitusjohtaja,Joose,Toiviainen,M,A,3084006,256021629,50101,Toimipaikan ylin johto
+29192667,2115556540,3230945,2011,toimitusjohtaja,Csaba,Raduly Baka,M,A,2312466,255476314,50101,Toimipaikan ylin johto
+27890648,1307012935,3147485,2005,hallituksen puheenjohtaja,Antti,Sassi,M,A,-11262345,253512585,50101,Toimipaikan ylin johto
+27890648,3016287973,3147485,2011,toimitusjohtaja,Mika,Toivola,M,A,1407755,255600734,50101,Toimipaikan ylin johto
+27739016,2714227520,3136343,2006,hallituksen jäsen,Urho,Konttori,M,A,-10398132,255563926,50101,Toimipaikan ylin johto
+27739016,2714227532,3136343,2011,toimitusjohtaja,Timo,Toikkanen,M,A,-10803007,255563927,50101,Toimipaikan ylin johto
+31233579,3057863011,3370716,2011,toimitusjohtaja,Atte,Kananen,M,A,-11010925,255604371,50101,Toimipaikan ylin johto
+27239732,3526968634,3104325,2005,hallituksen puheenjohtaja,Topias,Kangas,M,A,-10724561,255657422,50101,Toimipaikan ylin johto
+31026393,2907499936,3345245,2005,hallituksen puheenjohtaja,Tommi,Rasila,M,A,-10085742,255590047,50101,Toimipaikan ylin johto
+28800237,1890093930,3202812,2011,toimitusjohtaja,Pekka,Viljakainen,M,A,-10010522,255432417,50101,Toimipaikan ylin johto
+33384928,4753868924,3974628,2011,toimitusjohtaja,Tommi,Bergström,M,A,2801603,255907591,50101,Toimipaikan ylin johto
+34407247,5533073257,4100475,2011,toimitusjohtaja,Emilia,Jaakkola,F,A,2822013,256070915,50101,Toimipaikan ylin johto
+29988948,2607245928,3297997,2011,toimitusjohtaja,Matti,Toivonen,M,A,-10328955,255549793,50101,Toimipaikan ylin johto
+29988948,5254907959,3297997,2932,markkinointi- ja viestintäpäällikkö,Tiina,Björk,F,A,,256018156,50105;50112,Markkinoinnista vastaava;Viestinnästä vastaava
+30156444,2717165836,3316667,2011,toimitusjohtaja,Jussi,Riihijärvi,M,A,-11147263,255564521,50101,Toimipaikan ylin johto
+28310422,1537458381,3171701,2011,toimitusjohtaja,Miia,Seppänen,F,A,1766853,254578209,50101,Toimipaikan ylin johto
+32282698,4765514869,3636875,2011,toimitusjohtaja,Pauli,Mankinen,M,A,3163484,255910502,50101,Toimipaikan ylin johto
+33798696,5092833993,4027815,2005,hallituksen puheenjohtaja,Henrik,Dahl,M,A,-10878936,255983566,50101,Toimipaikan ylin johto
+27951746,2777952383,3150858,2011,toimitusjohtaja,Marcus,Nordström,M,A,-10444295,255575057,50101,Toimipaikan ylin johto
+31656889,5880620736,3524360,2272,hr manager,Elina,Yrttiaho,U,A,,256151077,,
+31656889,5880620743,3524360,2232,talouspäällikkö,Antti,Huhta,U,A,,256151078,,
+31656889,5880620750,3524360,2011,toimitusjohtaja,Aki,Savolainen,U,A,,256151079,,
+31656889,5880620757,3524360,2272,henkilöstöpäällikkö,Liisa,Kotanen,U,A,,256151080,,
+31656889,5880620764,3524360,2272,hr business partner,Iisa,Saastamoinen,U,A,,256151081,,
+31656889,5880620771,3524360,2271,henkilöstöjohtaja,Sanna,Heinilä,U,A,,256151082,,
+29504296,2351905825,3255006,2005,hallituksen puheenjohtaja,Tuomas,Husu,M,A,-11262442,255512384,50101,Toimipaikan ylin johto
+29504296,3918089021,3255006,2011,toimitusjohtaja,Kimmo,Koivisto,M,A,-10958976,255719834,50101,Toimipaikan ylin johto
+31641089,3416183494,3523218,2011,toimitusjohtaja,Joonas,Suominen,M,A,1561467,255644971,50101,Toimipaikan ylin johto
+26939323,3522346639,3080418,2011,toimitusjohtaja,Santeri,Hilli,M,A,1467402,255656833,50101,Toimipaikan ylin johto
+34897645,5912300507,4153324,2011,toimitusjohtaja,Markku,Vuorinen,M,A,3258627,256155165,50101,Toimipaikan ylin johto
+31321421,3150733056,3482199,2011,toimitusjohtaja,Markku,Mehtälä,M,A,-10144637,255615991,50101,Toimipaikan ylin johto
+28552587,1741750489,3186493,2011,toimitusjohtaja,Frank,Sjöberg,M,A,1081600,255292970,50101,Toimipaikan ylin johto
+31217085,3065584162,3367956,2011,toimitusjohtaja,Vesa,Aaltonen,M,A,1186615,255604975,50101,Toimipaikan ylin johto
+33507545,4841074948,3989871,2011,toimitusjohtaja,Leo,Salomaa,M,A,1381979,255931709,50101,Toimipaikan ylin johto
+31697365,5302331341,3533890,2011,toimitusjohtaja,Elina,Niinistö,F,A,-11086918,256027195,50101,Toimipaikan ylin johto
+28438899,1620466138,3179768,2011,toimitusjohtaja,Marko,Viinikka,M,A,1017797,254895022,50101,Toimipaikan ylin johto
+33515211,4849759156,3990811,2011,toimitusjohtaja,Ari,Heljakka,M,A,-10999615,255933636,50101,Toimipaikan ylin johto
+28712018,3934291587,3196972,2011,toimitusjohtaja,Karita,Reijonsaari,F,A,-10825238,255721408,50101,Toimipaikan ylin johto
+28712018,5759300525,3196972,2931,commercial director,Merja,Paavolainen,U,A,,256123597,,
+27957435,1292117835,3151164,2011,toimitusjohtaja,Oskari,Saarenmaa,M,A,-10995017,253346541,50101,Toimipaikan ylin johto
+29794537,2480574229,3266809,2011,toimitusjohtaja,Kari,Leppänen,M,A,-10722010,255528973,50101,Toimipaikan ylin johto
+27217541,784628373,3101635,2011,toimitusjohtaja,Juho,Ojala,M,A,-10735652,247597208,50101,Toimipaikan ylin johto
+30163986,2755231880,3317536,2011,toimitusjohtaja,Tea-Titta,Kainu,F,A,-11020011,255570199,50101,Toimipaikan ylin johto
+33582609,4901996640,4000585,2005,hallituksen puheenjohtaja,Miika,Huttunen,M,A,1766993,255944539,50101,Toimipaikan ylin johto
+33582609,4901996649,4000585,2011,toimitusjohtaja,Mikko,Mäntylä,M,A,3034769,255944540,50101,Toimipaikan ylin johto
+29257758,2197625242,3235672,2011,toimitusjohtaja,Jussi,Tommola,M,A,1048429,255489167,50101,Toimipaikan ylin johto
+26847031,1961795221,3071939,2011,toimitusjohtaja,Maria,Jokelainen,F,A,-10439856,255450154,50101,Toimipaikan ylin johto
+26847031,5462546723,3071939,3021,after sales director,Ville,Kattelus,M,A,,256057456,50113,Asiakaspalvelusta vastaava
+26847031,5771584333,3071939,2216,development manager,Maisa,Leppänen,F,A,,256126867,,
+27310463,828338608,3107332,2011,toimitusjohtaja,Patrik,Louko,M,A,-11116972,248999940,50101,Toimipaikan ylin johto
+28204611,1491338663,3164009,2011,toimitusjohtaja,Teemu,Myllymäki,M,A,1966201,254396217,50101,Toimipaikan ylin johto
+28204611,5831356170,3164009,2005,hallituksen puheenjohtaja,Kalle,Lagerblom,M,A,,256142191,50101,Toimipaikan ylin johto
+31325852,3141496071,3482803,2011,toimitusjohtaja,Anssi,Jokinen,M,A,-10602758,255614603,50101,Toimipaikan ylin johto
+27620787,1075030315,3126806,2011,toimitusjohtaja,Joni,Salmela,M,A,1806042,251661836,50101,Toimipaikan ylin johto
+27620787,1239871461,3126806,2005,hallituksen puheenjohtaja,Mikko,Lainio,M,A,1806041,252890619,50101,Toimipaikan ylin johto
+28339399,1549977130,3173630,2011,toimitusjohtaja,Ville,Aittomäki,M,A,-11219891,254690840,50101,Toimipaikan ylin johto
+29091575,2005309176,3223473,2011,toimitusjohtaja,Saku,Pöllänen,M,A,1081282,255458484,50101,Toimipaikan ylin johto
+29091575,5944324286,3223473,3021,head of customer success,Elisa,Nuutinen,U,A,,256158626,,
+29091575,5944324293,3223473,2942,sales manager,Toni,Miettinen,U,A,,256158627,,
+29091575,5944324300,3223473,2012,partner,Jari,Kemi,U,A,,256158628,,
+29091575,5944324307,3223473,2012,partner,Aleksi,Ranta-Pere,U,A,,256158629,,
+32072682,3703872930,3584043,2005,hallituksen puheenjohtaja,Mikko,Hömmö,M,A,2170244,255691308,50101,Toimipaikan ylin johto
+32072682,6168376497,3584043,2011,toimitusjohtaja,Visa-Pekka,Mertanen,M,A,-11183977,256184144,50101,Toimipaikan ylin johto
+29490146,2323702227,3253566,2011,toimitusjohtaja,Meri-Tuuli,Laaksonen,F,A,2312526,255508209,50101,Toimipaikan ylin johto
+29490146,3963788727,3253566,2005,hallituksen puheenjohtaja,Harri-Pekka,Kaukonen,M,A,-10292302,255727502,50101,Toimipaikan ylin johto
+33635555,4966317619,4006788,2011,toimitusjohtaja,Juha-Pekka,Virtanen,M,A,-10004952,255957978,50101,Toimipaikan ylin johto
+26798815,2675291321,3066496,2211,kehitysjohtaja,Perttu,Eerola,M,A,,255558518,50701,Tuotanto
+26798815,5292165003,3066496,2011,toimitusjohtaja,Juha,Ala-Laurila,M,A,-10572310,256025863,50101,Toimipaikan ylin johto
+26798815,5997308389,3066496,2231,cfo,Tiina,Raatikainen,U,A,,256161702,,
+26798815,5997308774,3066496,2931,cmo,Elina,Mansner,U,A,,256161745,,
+28297213,1549976815,3170946,2011,toimitusjohtaja,Matti,Järveläinen,M,A,-11273278,254690805,50101,Toimipaikan ylin johto
+29907781,2541831755,3279559,2005,hallituksen puheenjohtaja,Mikko,Ahokas,M,A,-11219601,255539655,50101,Toimipaikan ylin johto
+29308543,2228636795,3239563,2011,toimitusjohtaja,Timo,Kuusisto,M,A,-11177303,255495084,50101,Toimipaikan ylin johto
+26876246,2902974215,3075261,2011,toimitusjohtaja,Davids,Blinovs,M,A,1197427,255589185,50101,Toimipaikan ylin johto
+26876246,6059071931,3075261,2931,marketing director,Nadja,Huotari,U,A,,256170040,,
+28536464,1694938211,3185493,2005,hallituksen puheenjohtaja,Max,Sandberg,M,A,1566616,255133452,50101,Toimipaikan ylin johto
+28536464,1694938229,3185493,2011,toimitusjohtaja,Laura,Aaltonen,F,A,2145291,255133453,50101,Toimipaikan ylin johto
+31066539,2951803257,3348070,2005,hallituksen puheenjohtaja,Mats,Manderbacka,M,A,-10829695,255593868,50101,Toimipaikan ylin johto
+27751234,5466004918,3137353,2011,toimitusjohtaja,Petri,Järvinen,M,A,-10334984,256058181,50101,Toimipaikan ylin johto
+26977514,713167429,3085437,2011,toimitusjohtaja,Fredrik,Teir,M,A,-11205595,245299279,50101,Toimipaikan ylin johto
+31210131,5764480276,3366888,2011,toimitusjohtaja,Rami,Alisawi,M,A,2748251,256125430,50101,Toimipaikan ylin johto
+29192579,2084075130,3230941,2011,toimitusjohtaja,Milla,Westerling,F,A,-10864640,255471792,50101,Toimipaikan ylin johto
+29189011,2098582158,3230690,2011,toimitusjohtaja,Pauli,Suuraho,M,A,-11237755,255473943,50101,Toimipaikan ylin johto
+28265684,1498376879,3168928,2005,hallituksen puheenjohtaja,Ville,Karjalainen,M,A,1683075,254449135,50101,Toimipaikan ylin johto
+28265684,3823375558,3168928,2011,toimitusjohtaja,Antti,Heikkinen,M,A,2048067,255708934,50101,Toimipaikan ylin johto
+32891135,4505746541,3825760,2011,toimitusjohtaja,Antti,Rönkkö,M,A,-11134079,255853931,50101,Toimipaikan ylin johto
+33560725,4881165137,3997366,2011,toimitusjohtaja,Tomi,Grönlund,M,A,-11118695,255940142,50101,Toimipaikan ylin johto
+29343285,2222622528,3241696,2011,toimitusjohtaja,Jukka,Tarkiainen,M,A,-10292003,255494315,50101,Toimipaikan ylin johto
+27554388,983203295,3121718,2011,toimitusjohtaja,Jarmo,Rouvinen,M,A,-10292012,250622486,50101,Toimipaikan ylin johto
+31089925,2962494290,3349649,2005,hallituksen puheenjohtaja,Timothy,McDonald,M,A,-11170562,255594918,50101,Toimipaikan ylin johto
+31089925,6066208368,3349649,2011,toimitusjohtaja,Alexander,Silén,M,A,1191197,256170926,50101,Toimipaikan ylin johto
+29137027,2064973398,3226705,2011,toimitusjohtaja,Jutta-Tuulia,Haaramo,F,A,-10639904,255468387,50101,Toimipaikan ylin johto
+28475331,1974961029,3221340,2011,toimitusjohtaja,Douglas,Castro Bórquez,M,A,1044020,255453367,50101,Toimipaikan ylin johto
+28475331,5269755023,3221340,2231,talousjohtaja,Cristian,Arias,U,A,,256020919,50102,Taloudesta vastaava
+31429352,3224409571,3495365,2011,toimitusjohtaja,Paavo,Kurkela,M,A,-11201319,255623584,50101,Toimipaikan ylin johto
+30197609,2748914621,3321441,2011,toimitusjohtaja,Jesse,Lempiäinen,M,A,1139747,255569562,50101,Toimipaikan ylin johto
+28328278,1534718532,3172863,2011,toimitusjohtaja,Ville-Markus,Niemijärvi,M,A,-11199538,254573863,50101,Toimipaikan ylin johto
+32001104,3689547652,3576380,2011,toimitusjohtaja,Tuure,Parviainen,M,A,3055999,255688366,50101,Toimipaikan ylin johto
+27919519,1272922359,3149066,2011,toimitusjohtaja,Krista,Kinnunen,F,A,1046849,253174733,50101,Toimipaikan ylin johto
+32412675,3973110713,3679163,2011,toimitusjohtaja,Veera,Virintie,F,A,1778618,255728490,50101,Toimipaikan ylin johto
+27516752,2429487929,3118961,2011,toimitusjohtaja,Mika,Perttula,M,A,-10541964,255522427,50101,Toimipaikan ylin johto
+27221508,787200098,3102058,2011,toimitusjohtaja,Kari,Savolainen,M,A,-11160903,247607110,50101,Toimipaikan ylin johto
+31353386,3153752389,3486004,2011,toimitusjohtaja,Ohto,Pentikäinen,M,A,2213613,255616495,50101,Toimipaikan ylin johto
+30912609,2850564736,3332398,2011,toimitusjohtaja,Anna,Telkänranta,F,A,-10609445,255583544,50101,Toimipaikan ylin johto
+27730783,3945550417,3135646,2011,toimitusjohtaja,Irina,Pavlova,F,A,-11204353,255723816,50101,Toimipaikan ylin johto
+29114722,2015424394,3225077,2011,toimitusjohtaja,Antti,Anttila,M,A,-10847387,255460127,50101,Toimipaikan ylin johto
+30912588,2820254949,3332396,2011,toimitusjohtaja,Aki,Kuivalainen,M,A,-10385263,255579949,50101,Toimipaikan ylin johto
+29008356,1948712438,3214542,2011,toimitusjohtaja,Katariina,Penttilä,U,A,1032946,255446389,50101,Toimipaikan ylin johto
+29008356,5167587026,3214542,2005,hallituksen puheenjohtaja,Pasi,Pohjala,M,A,-10368658,255999874,50101,Toimipaikan ylin johto
+32756603,4269516759,3792892,2011,toimitusjohtaja,Pia,Kario,F,A,-11127707,255800860,50101,Toimipaikan ylin johto
+27258458,805674844,3104366,2011,toimitusjohtaja,Janne,Heikkinen,M,A,1670001,248736046,50101,Toimipaikan ylin johto
+27258458,5147207645,3104366,2211,business development director,Ole,Martola,M,A,,255994698,50103;50107,Myynnistä vastaava;Liiketoiminnan kehitys
+27396842,906769451,3112905,2011,toimitusjohtaja,Hanna,Björknäs,F,A,1683174,249756677,50101,Toimipaikan ylin johto
+27396842,1564261951,3112905,2005,hallituksen puheenjohtaja,Pentti,Soini,M,A,-11169164,254740043,50101,Toimipaikan ylin johto
+27394206,888020495,3112831,2011,toimitusjohtaja,Kristian,Ranta,M,A,-11036434,249535447,50101,Toimipaikan ylin johto
+33702519,5008158359,4014948,2011,toimitusjohtaja,Timo,Siukkola,M,A,1526210,255967720,50101,Toimipaikan ylin johto
+28143716,1393785849,3160817,2011,toimitusjohtaja,Sami,Granfors,M,A,-11181724,254007705,50101,Toimipaikan ylin johto
+28183312,2089782421,3162515,2005,hallituksen puheenjohtaja,Mikko,Moilanen,M,A,-10919035,255472712,50101,Toimipaikan ylin johto
+28183312,5628085085,3162515,2011,toimitusjohtaja,Heidi,Lundström,F,A,2334122,256098336,50101,Toimipaikan ylin johto
+29518997,2344450947,3256115,2005,hallituksen puheenjohtaja,Julius,Tuomikoski,M,A,1902608,255511048,50101,Toimipaikan ylin johto
+29518997,2344450956,3256115,2011,toimitusjohtaja,Sami,Kivensalo,M,A,-11217503,255511049,50101,Toimipaikan ylin johto
+32123742,4177306042,3590520,2011,toimitusjohtaja,Elena,Melnikova,U,A,,255778065,50101,Toimipaikan ylin johto
+28257019,1501082375,3168259,2011,toimitusjohtaja,Marko,Haaja,M,A,2044334,254479227,50101,Toimipaikan ylin johto
+30180938,2736816014,3319423,2011,toimitusjohtaja,Sami,Mikkola,M,A,1582955,255567761,50101,Toimipaikan ylin johto
+31838594,3950010696,3558447,2011,toimitusjohtaja,Heidie,Topelius,F,A,-11232502,255725301,50101,Toimipaikan ylin johto
+28740625,1860006963,3198871,2011,toimitusjohtaja,Shakeel,Tabassam,M,A,-11262519,255426749,50101,Toimipaikan ylin johto
+31906403,3622427954,3566693,2005,hallituksen puheenjohtaja,Janne,Suomi,M,A,1390567,255673563,50101,Toimipaikan ylin johto
+31906403,5848885620,3566693,2011,toimitusjohtaja,Caj-Eric,Sjöman,M,A,-10777647,256145832,50101,Toimipaikan ylin johto
+32805006,5521611159,3808893,2011,toimitusjohtaja,Thomas,Grandell,M,A,-10314150,256068724,50101,Toimipaikan ylin johto
+32805006,6066208439,3808893,2005,hallituksen puheenjohtaja,Arto,Joensuu,M,A,1574878,256170932,50101,Toimipaikan ylin johto
+28928927,1934140034,3209060,2005,hallituksen puheenjohtaja,Jan,Koivukangas,M,A,1749588,255442316,50101,Toimipaikan ylin johto
+27908043,1259140489,3148422,2011,toimitusjohtaja,Henrik,Ramm-Schmidt,M,A,-10969922,253071935,50101,Toimipaikan ylin johto
+28014199,5101561824,3154898,2011,toimitusjohtaja,Jarno,Saarinen,M,A,1244976,255985065,50101,Toimipaikan ylin johto
+28014199,5685760813,3154898,2005,hallituksen puheenjohtaja,Ilkka,Kaikuvuo,M,A,-10569917,256107665,50101,Toimipaikan ylin johto
+32797819,4307403525,3807539,2011,toimitusjohtaja,Ida,Nevalainen,F,A,2871766,255810069,50101,Toimipaikan ylin johto
+28418943,1595136274,3178523,2005,hallituksen puheenjohtaja,Ari,Piispanen,M,A,-10060453,254859181,50101,Toimipaikan ylin johto
+28418943,1595136283,3178523,2011,toimitusjohtaja,Kari,Suninen,M,A,-10240211,254859182,50101,Toimipaikan ylin johto
+28418943,5944324062,3178523,2642,suunnittelupäällikkö,Jukka,Vuorinen,U,A,,256158604,,
+28418943,5944324071,3178523,2622,teknologiapäällikkö,Aleksi,Porkola,U,A,,256158605,,
+26873758,714393218,3074924,2011,toimitusjohtaja,Janne,Suhonen,M,A,-10319787,245575164,50101,Toimipaikan ylin johto
+32044091,3735970489,3581270,2011,toimitusjohtaja,Laura,Koivusalo,F,A,3096675,255697645,50101,Toimipaikan ylin johto
+32044091,5055593719,3581270,2005,hallituksen puheenjohtaja,Anna,Ehrnrooth,F,A,1416457,255976303,50101,Toimipaikan ylin johto
+32062118,3697600432,3582991,2005,hallituksen puheenjohtaja,Jerry,Ylilammi,M,A,1130527,255690400,50101,Toimipaikan ylin johto
+32062118,3697600441,3582991,2011,toimitusjohtaja,Otto,Seiskari,M,A,3051215,255690401,50101,Toimipaikan ylin johto
+28796012,3871379042,3202582,2005,hallituksen puheenjohtaja,Matti,Kurvinen,M,A,-10419938,255713895,50101,Toimipaikan ylin johto
+28796012,4118408827,3202582,2011,toimitusjohtaja,Jaakko,Pajunen,M,A,1201463,255766848,50101,Toimipaikan ylin johto
+35004351,6043110233,4167049,2011,toimitusjohtaja,Ilkka,Puikkonen,M,A,1090656,256167851,50101,Toimipaikan ylin johto
+29156367,2473006803,3228171,2005,hallituksen puheenjohtaja,Mikko,Myllyrinne,M,A,-10548980,255528024,50101,Toimipaikan ylin johto
+29583465,3429297132,3259748,2011,CEO,Prateek,Singh,M,A,,255646173,50101;50103;50107,Toimipaikan ylin johto;Myynnistä vastaava;Liiketoiminnan kehitys
+29583465,3429297156,3259748,2145,COO,Jari,Moilanen,M,A,,255646175,50102;50105;50106;50107;50111;50301;50302;50303;50304;50305;50306;50307;50308;50310;50311;50312;50503;50705;50706;50707;50708,"Taloudesta vastaava;Markkinoinnista vastaava;Henkilöstö- ja hallintoasioista vastaava;Liiketoiminnan kehitys;Lakiasioista vastaava;Kokouspalvelut;Koulutuspalvelut;Matkustus;Liikelahjat;Toimistotarvikkeet;Toimistoautomaatio;Henkilöautot;Hyötyajoneuvot;Media/mainontapalvelut;Toimistokalusteet;Toimitilat;Teleliikenne;Logistiikka;Logistiikka, kuljetukset;Logistiikka, varastointi;Ostot"
+29193758,2467204103,3231074,2011,toimitusjohtaja,Timo,Poijärvi,M,A,-10854325,255527257,50101,Toimipaikan ylin johto
+29193758,3813579572,3231074,2005,hallituksen puheenjohtaja,Pekka,Ylikoski,M,A,-10073273,255708080,50101,Toimipaikan ylin johto
+27061997,714510112,3092323,2011,toimitusjohtaja,Tarja,Jäntti,F,A,1599387,245587813,50101,Toimipaikan ylin johto
+30120353,5348151962,3312820,2011,toimitusjohtaja,Paula,Laine,F,A,1058079,256034522,50101,Toimipaikan ylin johto
+30120353,5880620324,3312820,2932,marketing manager,Karoliina,Maikola,F,A,,256151039,50105,Markkinoinnista vastaava
+30120353,6157714042,3312820,2942,key account manager,Eero,Paavilainen,U,A,,256182486,,
+34228652,5433176370,4081198,2011,toimitusjohtaja,Esa,Parjanen,M,A,-10176587,256052230,50101,Toimipaikan ylin johto
+34228652,5433176379,4081198,2005,hallituksen puheenjohtaja,Mattipekka,Kronqvist,M,A,-10639246,256052231,50101,Toimipaikan ylin johto
+32998629,4504100828,3844700,2011,toimitusjohtaja,Roni,Luhtala,M,A,2081528,255853515,50101,Toimipaikan ylin johto
+32998629,5808449295,3844700,2005,hallituksen puheenjohtaja,Tero,Ojanperä,M,A,-10838966,256133060,50101,Toimipaikan ylin johto
+30863472,2788571806,3325953,2011,toimitusjohtaja,Petri,Kero,M,A,-11170027,255576379,50101,Toimipaikan ylin johto
+30069674,4976986644,3306992,2011,toimitusjohtaja,Olli,Kähkönen,M,A,-10101511,255960971,50101,Toimipaikan ylin johto
+30069674,5011499812,3306992,2005,hallituksen puheenjohtaja,Risto,Innanen,M,A,-10577233,255968356,50101,Toimipaikan ylin johto
+27570775,987409706,3122846,2011,toimitusjohtaja,Pouya,Sheikh Mohammadi,M,A,-11062492,250639039,50101,Toimipaikan ylin johto
+31082811,3024099230,3349122,2011,toimitusjohtaja,Laura,Rahikka,F,A,1831847,255601513,50101,Toimipaikan ylin johto
+31082811,5831357937,3349122,2211,business development director,Carolina,Ahlstrand,F,A,,256142376,50103;50107,Myynnistä vastaava;Liiketoiminnan kehitys
+31082811,5831357948,3349122,2050,office manager,Karoliina,Alakotila,U,A,,256142377,,
+31082811,5944324635,3349122,2231,cfo,Susanna,Rönnqvist,U,A,,256158665,,
+31082811,6124270396,3349122,2932,marketing manager,Sonja,Vermeulen,F,A,,256177731,50105,Markkinoinnista vastaava
+27974673,1294828163,3152237,2011,toimitusjohtaja,Mikko,Saajanlehto,M,A,-10369951,253417407,50101,Toimipaikan ylin johto
+27789718,1658205138,3139960,2011,toimitusjohtaja,Teemu,Jyrkinen,M,A,1320559,254997811,50101,Toimipaikan ylin johto
+28771149,1852752805,3200849,2011,toimitusjohtaja,Aki,Marttila,M,A,2216213,255425645,50101,Toimipaikan ylin johto
+27204417,2590168513,3100866,2011,toimitusjohtaja,Hanna,Liljapelto,F,A,1645853,255547710,50101,Toimipaikan ylin johto
+33804566,5101562356,4028454,2011,toimitusjohtaja,Joonas,Palkonen,M,A,1091545,255985115,50101,Toimipaikan ylin johto
+33804566,5101562365,4028454,2005,hallituksen puheenjohtaja,Olli,Karikoski,M,A,1196706,255985116,50101,Toimipaikan ylin johto
+29480853,2304247648,3252662,2011,toimitusjohtaja,Piritta,Fors,F,A,-11058430,255505823,50101,Toimipaikan ylin johto
+27893478,3261177240,3147586,2005,hallituksen puheenjohtaja,Petri,Purho,M,A,-11164714,255626940,50101,Toimipaikan ylin johto
+27506191,945734302,3118308,2020,liikkeenharjoittaja,Tommi,Aaltonen,M,A,1765096,250337010,50101,Toimipaikan ylin johto
+31571076,3336940098,3514422,2005,hallituksen puheenjohtaja,Teemu,Ajalin,M,A,1972373,255634692,50101,Toimipaikan ylin johto
+31571076,3336940107,3514422,2011,toimitusjohtaja,Miska,Noponen,M,A,1249517,255634693,50101,Toimipaikan ylin johto
+32501109,4079310148,3717590,2011,toimitusjohtaja,Hilda,Rantanen,F,A,2878087,255761500,50101,Toimipaikan ylin johto
+32501109,5785606898,3717590,2005,hallituksen puheenjohtaja,Elina,Koivisto,F,A,-11270946,256129625,50101,Toimipaikan ylin johto
+27759025,6097766373,3137971,2011,toimitusjohtaja,Jarkko,Kaislasaari,M,A,-11267193,256175234,50101,Toimipaikan ylin johto
+27944511,5355645765,3150470,2011,toimitusjohtaja,Tauno,Hepola,M,A,-11259675,256036259,50101,Toimipaikan ylin johto
+27343126,4317361457,3109657,2011,toimitusjohtaja,Jane-Riitta,Tolvanen,F,A,1694652,255812425,50101,Toimipaikan ylin johto
+31694199,4952515953,3533681,2011,toimitusjohtaja,Marko,Niskanen,M,A,-11139088,255954631,50101,Toimipaikan ylin johto
+32510435,4057979293,3728800,2011,toimitusjohtaja,Konsta,Juvani,M,A,2216234,255753645,50101,Toimipaikan ylin johto
+28844264,1900079502,3204851,2011,toimitusjohtaja,Katja,Änkilä,F,A,-10596379,255434337,50101,Toimipaikan ylin johto
+34493958,5596815429,4111684,2011,toimitusjohtaja,Jim,Solatie,M,A,-10538688,256092448,50101,Toimipaikan ylin johto
+28507786,1697674233,3183945,2011,toimitusjohtaja,Jesse,Ellonen,M,A,2152601,255150549,50101,Toimipaikan ylin johto
+31680168,5142743971,3530273,2005,hallituksen puheenjohtaja,Karoliina,Kauhanen,F,A,3059088,255993439,50101,Toimipaikan ylin johto
+31255831,3101132477,3374371,2011,toimitusjohtaja,Vili,Kostamo,M,A,2760210,255609714,50101,Toimipaikan ylin johto
+31255831,3101132486,3374371,2005,hallituksen puheenjohtaja,Heikki,Rautajoki,M,A,-10202831,255609715,50101,Toimipaikan ylin johto
+30883449,5205039179,3329288,2011,toimitusjohtaja,Vesa,Jutila,M,A,-10082388,256007161,50101,Toimipaikan ylin johto
+28648992,1781084516,3192992,2011,toimitusjohtaja,Markus,Törnqvist,M,A,-10912573,255413303,50101,Toimipaikan ylin johto
+27937805,5441829137,3150129,2005,hallituksen puheenjohtaja,Martti,Kolehmainen,M,A,-10685853,256053554,50101,Toimipaikan ylin johto
+27937805,5724240570,3150129,2011,toimitusjohtaja,Tiina,Bensky,F,A,2410780,256113239,50101,Toimipaikan ylin johto
+31676548,3420976305,3526758,2011,toimitusjohtaja,Samu,Lehtonen,M,A,2926135,255645506,50101,Toimipaikan ylin johto
+26934389,6090841086,3081123,2011,toimitusjohtaja,Sienna,Kruk,F,A,3365543,256174528,50101,Toimipaikan ylin johto
+29432413,4325677857,3246928,2941,sales director,Markus,Kyllönen,M,A,,255815222,50103,Myynnistä vastaava
+29432413,5280094250,3246928,2011,toimitusjohtaja,Saku,Pihlajaniemi,M,A,1125858,256022745,50101,Toimipaikan ylin johto
+28286629,1515119333,3170256,2011,toimitusjohtaja,Visa,Sippola,M,A,2061608,254520056,50101,Toimipaikan ylin johto
+28298371,1517857596,3170994,2011,toimitusjohtaja,Antti,Grönqvist,M,A,-10835623,254522819,50101,Toimipaikan ylin johto
+28298371,5521610168,3170994,2271,henkilöstöjohtaja,Marja,Tikkanen,F,A,,256068646,50106,Henkilöstö- ja hallintoasioista vastaava
+30175266,2744495703,3318891,2005,hallituksen puheenjohtaja,Tom,Strandberg,M,A,2622744,255568816,50101,Toimipaikan ylin johto
+32017245,3670302707,3578079,2011,toimitusjohtaja,Janne,Suhonen,M,A,1208144,255684553,50101,Toimipaikan ylin johto
+32017245,4672960097,3578079,2005,hallituksen puheenjohtaja,Harri,Hyväri,M,A,-10173231,255887420,50101,Toimipaikan ylin johto
+32017245,5759304588,3578079,2621,chief technology officer,Kimmo,Jokelainen,U,A,,256123999,,
+31616254,3386647057,3522384,2011,toimitusjohtaja,Erik,Lindbohm,M,A,-10514966,255641870,50101,Toimipaikan ylin johto
+28232145,6170106686,3166801,2011,toimitusjohtaja,Anssi,Taskinen,M,A,2039616,256184289,50101,Toimipaikan ylin johto
+31856012,3555678171,3560176,2011,toimitusjohtaja,Lauri,Alasaukko-oja,M,A,1622017,255662346,50101,Toimipaikan ylin johto
+28015511,1342716724,3154947,2011,toimitusjohtaja,Jaana,Komscha-Härkönen,F,A,1984401,253692991,50101,Toimipaikan ylin johto
+28015511,5993844979,3154947,2005,hallituksen puheenjohtaja,Pekka,Lindroos,M,A,-10035321,256161218,50101,Toimipaikan ylin johto
+28041664,1349599582,3156529,2005,hallituksen puheenjohtaja,Jarkko,Mäkivaara,M,A,1007141,253750848,50101,Toimipaikan ylin johto
+28041664,4691681922,3156529,2011,toimitusjohtaja,Karl,Sandelin,M,A,1089154,255894395,50101,Toimipaikan ylin johto
+31585419,3414678819,3526302,2011,toimitusjohtaja,Klaus,Lehtonen,M,A,1747962,255644784,50101,Toimipaikan ylin johto
+28331936,1526210953,3173134,2011,toimitusjohtaja,Jan,Kojo,M,A,2068319,254543936,50101,Toimipaikan ylin johto
+32009835,3732811281,3577355,2011,toimitusjohtaja,Tuomas,Marttila,M,A,-11270608,255697236,50101,Toimipaikan ylin johto
+34282712,5452213988,4085898,2005,hallituksen puheenjohtaja,Jarno,Wuorisalo,M,A,-10891828,256055229,50101,Toimipaikan ylin johto
+32028454,3676769736,3579250,2011,toimitusjohtaja,Antti,Kotanen,M,A,2305964,255685620,50101,Toimipaikan ylin johto
+32028454,3676769745,3579250,2005,hallituksen puheenjohtaja,Lasse,Kangas,M,A,-11155273,255685621,50101,Toimipaikan ylin johto
+27340945,5440134030,3109444,2011,toimitusjohtaja,Immo,Salonen,M,A,-10601964,256053315,50101,Toimipaikan ylin johto
+31361212,3182900433,3487022,2011,toimitusjohtaja,Henri,Malkki,M,A,1055402,255619152,50101,Toimipaikan ylin johto
+32116374,3768191395,3589955,2011,toimitusjohtaja,Sasu,Liuhanen,M,A,1066371,255702156,50101,Toimipaikan ylin johto
+31084817,2962494164,3349259,2011,toimitusjohtaja,Jussi,Räisänen,M,A,-10515364,255594904,50101,Toimipaikan ylin johto
+27160119,761498613,3098506,2011,toimitusjohtaja,Antti,Sunnari,M,A,-11082835,246502956,50101,Toimipaikan ylin johto
+31012047,5676965024,3343885,2011,toimitusjohtaja,Sami,Oinas,M,A,-10937196,256106269,50101,Toimipaikan ylin johto
+32174929,6044836530,3595890,2011,toimitusjohtaja,Joonatan,Lintala,M,A,-11241083,256167959,50101,Toimipaikan ylin johto
+27366643,4545523198,3111310,2011,toimitusjohtaja,Ville,Kulmala,M,A,-10854788,255862080,50101,Toimipaikan ylin johto
+27366643,5640271315,3111310,2005,hallituksen puheenjohtaja,Ilkka,Starck,M,A,-10929751,256100394,50101,Toimipaikan ylin johto
+27366643,5762752240,3111310,2141,liiketoimintajohtaja,Sami,Ahonen,U,A,,256124414,,
+29372238,2280407418,3243223,2011,toimitusjohtaja,Joonas,Salonen,M,A,2380144,255502891,50101,Toimipaikan ylin johto
+31075339,2945867738,3348533,2011,toimitusjohtaja,Oliver,Rotko,M,A,1204601,255593146,50101,Toimipaikan ylin johto
+31546743,5362450923,3512203,2011,toimitusjohtaja,Khalid,Alnajjar,M,A,2875154,256037232,50101,Toimipaikan ylin johto
+30978261,2927652538,3339939,2011,toimitusjohtaja,Janina,Mbuthia,F,A,1129235,255591944,50101,Toimipaikan ylin johto
+31123054,2982576728,3353126,2005,hallituksen puheenjohtaja,Otto,Laitinen,M,A,2726205,255597110,50101,Toimipaikan ylin johto
+27692078,3906777905,3132153,2011,toimitusjohtaja,Heikki,Lummaa,M,A,-11237795,255718232,50101,Toimipaikan ylin johto
+27598129,3284204754,3133247,2011,toimitusjohtaja,Sirkku,Rönkä,F,A,-11017244,255628986,50101,Toimipaikan ylin johto
+33608813,4936998349,4003394,2011,toimitusjohtaja,Markku,Räsänen,M,A,2086566,255951223,50101,Toimipaikan ylin johto
+26923284,714407919,3079339,2011,toimitusjohtaja,Sami,Marttinen,M,A,1519100,245576628,50101,Toimipaikan ylin johto
+27723698,1133099786,3135054,2011,toimitusjohtaja,Teppo,Räisänen,M,A,-10310944,251933221,50101,Toimipaikan ylin johto
+31534822,3343194190,3515606,2011,toimitusjohtaja,Carl-Wilhelm,Unnérus,M,A,2870569,255635055,50101,Toimipaikan ylin johto
+31534822,6168376443,3515606,2005,hallituksen puheenjohtaja,Stefan,Söderström,M,A,2546514,256184139,50101,Toimipaikan ylin johto
+32348482,3989710689,3661116,2011,toimitusjohtaja,Henri,Yoki,M,A,-11143793,255730135,50101,Toimipaikan ylin johto
+31984372,3678365527,3574716,2005,hallituksen puheenjohtaja,Harri,Manninen,M,A,-11012236,255686221,50101,Toimipaikan ylin johto
+27015819,2673655988,3088760,2011,toimitusjohtaja,Esa,Areva,M,A,1048675,255558142,50101,Toimipaikan ylin johto
+27015819,2673655997,3088760,2005,hallituksen puheenjohtaja,Lasse,Jokinen,M,A,-10750035,255558143,50101,Toimipaikan ylin johto
+28877816,5164208942,3206420,2011,toimitusjohtaja,William,Cardwell Jr,M,A,-10504189,255999098,50101,Toimipaikan ylin johto
+31167399,3004041194,3357732,2011,toimitusjohtaja,Olli,Lahtinen,M,A,1576001,255599344,50101,Toimipaikan ylin johto
+27393932,5619463730,3112821,2631,chief product officer,Heidi,Peltola,F,A,,256096675,50101,Toimipaikan ylin johto
+28359664,1544510560,3174856,2011,toimitusjohtaja,Annamari,Jukkola,F,A,1210428,254666465,50101,Toimipaikan ylin johto
+28384464,1663897019,3176484,2011,toimitusjohtaja,Johanna,Selin,F,A,2090469,255010139,50101,Toimipaikan ylin johto
+27827497,1220234713,3143211,2005,hallituksen puheenjohtaja,Jesse,Sjöberg,M,A,-11107656,252659994,50101,Toimipaikan ylin johto
+27499892,952514206,3117966,2011,toimitusjohtaja,Mikko,Karsisto,M,A,1015933,250357585,50101,Toimipaikan ylin johto
+27499892,952514215,3117966,2005,hallituksen puheenjohtaja,Seppo,Huttu-Hiltunen,M,A,1421788,250357586,50101,Toimipaikan ylin johto
+28532957,1713424928,3185318,2011,toimitusjohtaja,Tomi,Paatsila,M,A,-10938349,255198023,50101,Toimipaikan ylin johto
+28532957,1713424943,3185318,2005,hallituksen puheenjohtaja,Jukka,Manner,M,A,-10971250,255198024,50101,Toimipaikan ylin johto
+27258474,796433186,3104368,2011,toimitusjohtaja,Johannes,Karjula,M,A,1045302,247656217,50101,Toimipaikan ylin johto
+31416404,3222877742,3496503,2011,toimitusjohtaja,Tiina,Talvitie,F,A,-10741306,255623360,50101,Toimipaikan ylin johto
+32184852,3789122820,3596905,2011,toimitusjohtaja,Roni,Lahti,M,A,3124346,255705320,50101,Toimipaikan ylin johto
+32184852,3789122829,3596905,2005,hallituksen puheenjohtaja,Elias,Örmä,M,A,2673516,255705321,50101,Toimipaikan ylin johto
+32184852,5944324956,3596905,2632,product manager,Jere,Niemi,U,A,,256158702,,
+33151112,4555561288,3870088,2011,toimitusjohtaja,Rasheda,Hamza,U,A,2815480,255864135,50101,Toimipaikan ylin johto
+30058801,5429765514,3305958,2011,toimitusjohtaja,Joachim,Colliander,M,A,3091103,256051594,50101,Toimipaikan ylin johto
+30058801,5429765523,3305958,2005,hallituksen puheenjohtaja,Hanna,Liiri,F,A,-10129735,256051595,50101,Toimipaikan ylin johto
+30058801,5619465147,3305958,2632,production manager,Riku,Karell,M,A,,256096798,50701,Tuotanto
+30058801,5619465158,3305958,3721,director of partnerships,Anna-Kaisa,Huttunen,F,A,,256096799,50112,Viestinnästä vastaava
+30058801,5944324522,3305958,3250,warehouse manager,Joe,Saarinen,U,A,,256158652,,
+30058801,6046548670,3305958,2662,hse manager,Minna,Ainonen,U,A,,256168071,,
+32514313,4056409654,3743765,2011,toimitusjohtaja,Paul,Westerlund,M,A,-10561161,255753484,50101,Toimipaikan ylin johto
+30917434,4901620052,3332961,2011,toimitusjohtaja,Heikki,Kärki,M,A,-10247102,255944437,50101,Toimipaikan ylin johto
+28430029,1645582624,3179212,2011,toimitusjohtaja,Peik,Lehtonen,M,A,2103539,254933673,50101,Toimipaikan ylin johto
+33517591,4849759651,3991104,2011,toimitusjohtaja,Teemu,Raitaluoto,M,A,2811529,255933691,50101,Toimipaikan ylin johto
+29457338,2301339615,3250088,2011,toimitusjohtaja,Karno,Tenovuo,M,A,1000773,255505429,50101,Toimipaikan ylin johto
+27240442,5595084875,3102770,2145,coo,Alain,Lejeune,M,A,,256091587,50107,Liiketoiminnan kehitys
+28253472,1517857324,3168071,2011,toimitusjohtaja,Turkka,Syrjäläinen,M,A,-11080216,254522789,50101,Toimipaikan ylin johto
+28253472,5976182236,3168071,2005,hallituksen puheenjohtaja,Timo,Alatalkkari,M,A,,256160379,50101,Toimipaikan ylin johto
+33282278,4907232448,3960787,2005,hallituksen puheenjohtaja,William,Copeland,M,A,-10758123,255945792,50101,Toimipaikan ylin johto
+31936661,5573874758,3569602,2011,toimitusjohtaja,Seppo,Kuusinen,M,A,2132427,256085802,50101,Toimipaikan ylin johto
+27527603,5183011567,3119696,2011,toimitusjohtaja,Seppo,Hynnä,M,A,1186758,256002945,50101,Toimipaikan ylin johto
+27527603,5759297665,3119696,2141,head of business,Ilkka,Kukkonen,U,A,,256123304,,
+27090034,727697426,3094445,2011,toimitusjohtaja,Marko,Vuoriheimo,M,A,-11101633,245943020,50101,Toimipaikan ylin johto
+27943279,1285164300,3150439,2011,toimitusjohtaja,Rauli,Saarela,M,A,-10254138,253221730,50101,
+27943279,1285164309,3150439,2005,hallituksen puheenjohtaja,Sirkka,Saarela,F,A,-10850280,253221731,50101,
+29176632,2067906440,3229843,2011,toimitusjohtaja,Pekka,Hamara,M,A,2306805,255469185,50101,Toimipaikan ylin johto
+27785418,5880619688,3139682,2621,cto,Joni,Vähämäki,U,A,,256150971,,
+27785418,6059072203,3139682,2941,head of sales,Sven,Rösch,U,A,,256170068,,
+27785418,6059072210,3139682,2932,growth marketing manager,Mara,Fernandez,U,A,,256170069,,
+34106399,5343577343,4067053,2011,toimitusjohtaja,Timo,Valtonen,M,A,-10938361,256033649,50101,Toimipaikan ylin johto
+29504368,2351905834,3255010,2011,toimitusjohtaja,Päivi,Kangasmäki,F,A,-10599474,255512385,50101,Toimipaikan ylin johto
+30087397,2727712865,3309012,2011,toimitusjohtaja,Timo,Palonen,M,A,-11087667,255566157,50101,Toimipaikan ylin johto
+32903773,5995595200,3827730,2011,toimitusjohtaja,Justus,Berner,M,A,2729552,256161385,50101,Toimipaikan ylin johto
+27053698,2841482057,3091795,2011,toimitusjohtaja,Saku,Pakkanen,M,A,-10899667,255582450,50101,Toimipaikan ylin johto
+32602225,4133254931,3763348,2005,hallituksen puheenjohtaja,Tommi,Kupiainen,M,A,2371700,255768817,50101,Toimipaikan ylin johto
+32602225,6155979580,3763348,2011,toimitusjohtaja,Niilo,Pirttijärvi,M,A,2371699,256181965,50101,Toimipaikan ylin johto
+31600092,3358604212,3518064,2011,toimitusjohtaja,Jani,Tirronen,M,A,-10685417,255637138,50101,Toimipaikan ylin johto
+29518639,5771595371,3256035,2011,toimitusjohtaja,Antti,Åke,M,A,3596578,256126942,50101,Toimipaikan ylin johto
+27054009,713262662,3091809,2011,toimitusjohtaja,Tommi,Wallenius,M,A,1593594,245309708,50101,Toimipaikan ylin johto
+27054009,5147207482,3091809,2216,business development manager,Samuli,Vihervirta,M,A,,255994687,50107,Liiketoiminnan kehitys
+27054009,5147207496,3091809,2942,account manager,Alexander,Eklund,M,A,,255994688,50103,Myynnistä vastaava
+27054009,5147207508,3091809,2942,account manager,Jesper,Lindblom,M,A,,255994689,50103,Myynnistä vastaava
+33764162,5247996651,4023373,2011,toimitusjohtaja,Juha,Rytkönen,M,A,-11085011,256016591,50101,Toimipaikan ylin johto
+30178643,2743009805,3319182,2011,toimitusjohtaja,Tuomas,Nyman,M,A,-11167624,255568621,50101,Toimipaikan ylin johto
+28176833,1420455216,3162225,2011,toimitusjohtaja,Tuomas,Erikoinen,M,A,1114482,254098643,50101,Toimipaikan ylin johto
+32846975,4319012308,3817306,2011,toimitusjohtaja,Mika,Paalanne,M,A,3053934,255813012,50101,Toimipaikan ylin johto
+32846975,4319012317,3817306,2005,hallituksen puheenjohtaja,Kimmo,Oila,M,A,-10751966,255813013,50101,Toimipaikan ylin johto
+31782148,4748225886,3551784,2011,toimitusjohtaja,Harry,Järn,M,A,1026323,255906146,50101,Toimipaikan ylin johto
+28201525,1438528013,3163800,2011,toimitusjohtaja,Jeri,Haapavuo,M,A,2030466,254172034,50101,Toimipaikan ylin johto
+28768038,5074221971,3200633,2011,toimitusjohtaja,Henri,Littunen,M,A,2353044,255979728,50101,Toimipaikan ylin johto
+26899624,713149840,3077392,2011,toimitusjohtaja,Mikko,Pirinen,M,A,1070966,245297527,50101,Toimipaikan ylin johto
+33094648,4804918359,3860745,2005,hallituksen puheenjohtaja,Henri,Antila,M,A,1098257,255917919,50101,Toimipaikan ylin johto
+32555182,4123365268,3753648,2011,toimitusjohtaja,Matti,Lattu,M,A,-10679535,255767355,50101,Toimipaikan ylin johto
+29437126,3284204846,3247231,2011,toimitusjohtaja,Hanne,Selin,F,A,-10426224,255628995,50101,Toimipaikan ylin johto
+29880857,2523806190,3275995,2011,toimitusjohtaja,Kari,Sinivuori,M,A,-10336055,255534648,50101,Toimipaikan ylin johto
+29880857,5759302047,3275995,2932,marketing manager,Stanley,Lin,U,A,,256123751,,
+29880857,5759302056,3275995,2231,chief financial officer,Harri,Näivö,U,A,,256123752,,
+29880857,5759302063,3275995,2631,product director,Iida,Mäkelä,U,A,,256123753,,
+29880857,5759302074,3275995,2632,product manager,Dennis,Schmidt,U,A,,256123754,,
+28868098,4177284241,3205900,2011,toimitusjohtaja,Ruben,Bryon,U,A,,255777504,50101,Toimipaikan ylin johto
+28577936,1724691440,3188251,2005,hallituksen puheenjohtaja,Jere,Takala,M,A,1538198,255244391,50101,Toimipaikan ylin johto
+28577936,1724691449,3188251,2011,toimitusjohtaja,Outi-Maria,Takala,F,A,-10927021,255244392,50101,Toimipaikan ylin johto
+26899173,714493241,3077231,2011,toimitusjohtaja,Antti,Pohjola,M,A,-10579167,245585933,50101,Toimipaikan ylin johto
+34694557,5764482853,4133060,2005,hallituksen puheenjohtaja,Miro,Kymäläinen,M,A,2733456,256125674,50101,Toimipaikan ylin johto
+34694557,5764482862,4133060,2011,toimitusjohtaja,Janus-Anrei,Joenpolvi,M,A,2801507,256125675,50101,Toimipaikan ylin johto
+31160859,3514405641,3356926,2011,toimitusjohtaja,Mikko,Simon,M,A,-11056715,255656058,50101,Toimipaikan ylin johto
+28551402,1704907702,3186361,2011,toimitusjohtaja,Samu-Petteri,Niska,M,A,2151342,255163361,50101,Toimipaikan ylin johto
+28551402,4041659828,3186361,2941,account executive,Tuomas,Huovinen,M,A,,255751078,50103,Myynnistä vastaava
+28551402,4041659850,3186361,3021,head of customer success,Kari,Niilivuo,M,A,,255751080,50105;50113,Markkinoinnista vastaava;Asiakaspalvelusta vastaava
+28551402,4954529656,3186361,2941,account executive,Minna,Halmetoja,F,A,,255955755,50103,Myynnistä vastaava
+28551402,4954529665,3186361,2932,marketing manager,Emma,Rantanen,F,A,,255955756,50105,Markkinoinnista vastaava
+28551402,4954529674,3186361,2941,account executive,Jerry,Keisala,M,A,,255955757,50103,Myynnistä vastaava
+28551402,4991006224,3186361,3022,customer success manager,Juhamatti,Julkunen,M,A,,255964058,50113,Asiakaspalvelusta vastaava
+28551402,5831356489,3186361,3022,customer success manager,Joel,Hollfast,U,A,,256142226,,
+28551402,5831356500,3186361,2231,chief financial officer,Tuomo,Janatuinen,U,A,,256142227,,
+28551402,5831356511,3186361,3022,customer success manager,Camilla,Oksanen,U,A,,256142228,,
+27568114,1890093425,3122669,2005,hallituksen puheenjohtaja,Torsti,Tenhunen,M,A,-10104280,255432363,50101,Toimipaikan ylin johto
+27568114,2131436798,3122669,2011,toimitusjohtaja,Natalia,Rincon Salazar,F,A,1787351,255479137,50101,Toimipaikan ylin johto
+29425344,2283277571,3246460,2011,toimitusjohtaja,Leo,Gillberg,M,A,1144728,255503380,50101,Toimipaikan ylin johto
+31904897,3625539798,3566628,2005,hallituksen puheenjohtaja,Jyri,Kytömäki,M,A,-10627947,255674067,50101,Toimipaikan ylin johto
+31904897,4251247092,3566628,2011,toimitusjohtaja,Arvid,Lundström,M,A,1352265,255796162,50101,Toimipaikan ylin johto
+28714742,4948315173,3197182,2011,toimitusjohtaja,Erik,Tahkola,M,A,2695262,255954019,50101,Toimipaikan ylin johto
+28714742,5147208509,3197182,2141,liiketoimintajohtaja,Iiro,Permikangas,M,A,,255994762,50103,Myynnistä vastaava
+28714742,5147208531,3197182,2141,liiketoimintajohtaja,Jeremias,Lahtinen,M,A,,255994764,50103,Myynnistä vastaava
+27510641,943152553,3118557,2005,hallituksen puheenjohtaja,Ilpo,Simonen,M,A,1046828,250296394,50101,Toimipaikan ylin johto
+27510641,943152562,3118557,2011,toimitusjohtaja,Miikka,Kostian,M,A,1195195,250296395,50101,Toimipaikan ylin johto
+27287267,811039013,3106058,2011,toimitusjohtaja,Joona,Heino,M,A,-10925624,248755176,50101,Toimipaikan ylin johto
+31418557,3227443643,3497667,2011,toimitusjohtaja,Matti,Ala-Outinen,M,A,2821833,255623947,50101,Toimipaikan ylin johto
+31418557,5157295525,3497667,2005,hallituksen puheenjohtaja,Rami,Peltonen,M,A,-11049152,255997491,50101,Toimipaikan ylin johto
+34153937,5372865992,4072912,2011,toimitusjohtaja,Lasse,Iskanius,M,A,1924860,256040274,50101,Toimipaikan ylin johto
+27900017,5921227457,3147962,2011,toimitusjohtaja,Kari,Säynevirta,M,A,-10618530,256156104,50101,Toimipaikan ylin johto
+27997728,1316595377,3153837,2011,toimitusjohtaja,Anton,Saastamoinen,M,A,-10418723,253572819,50101,Toimipaikan ylin johto
+27997728,5759298950,3153837,2942,myyntipäällikkö,Jonna,Kaila,U,A,,256123433,,
+28444949,1616183936,3180098,2011,toimitusjohtaja,Nonna,Babitzin,F,A,-10256680,254891461,50101,Toimipaikan ylin johto
+29455375,4231572472,3249675,2145,coo,Jani,Jokela,M,A,,255791824,50107,Liiketoiminnan kehitys
+29455375,5601989011,3249675,2011,toimitusjohtaja,Hannu,Klemetti,M,A,1210132,256093478,50101,Toimipaikan ylin johto
+32285485,6124271882,3638123,2232,business controller,Jonna,Nummelin,F,A,,256177851,50107,Liiketoiminnan kehitys
+27169113,1168720088,3098993,2011,toimitusjohtaja,Markku,Patronen,M,A,-10243676,252178682,50101,Toimipaikan ylin johto
+27323176,865435021,3111843,2011,toimitusjohtaja,Jussi,Määttä,M,A,-10508007,249340225,50101,Toimipaikan ylin johto
+27323176,3728033699,3111843,2941,myyntijohtaja,Markus,Lind,M,A,,255696506,50103,Myynnistä vastaava
+27323176,3728033723,3111843,2145,operatiivinen johtaja,Peter,Hänninen,M,A,,255696508,50101,Toimipaikan ylin johto
+27343943,874761454,3109752,2011,toimitusjohtaja,Nils,Bjurström,M,A,-10839012,249373741,50101,Toimipaikan ylin johto
+26820293,2197619417,3068748,2005,hallituksen puheenjohtaja,Janne,Saastamoinen,M,A,1031718,255488777,50101,Toimipaikan ylin johto
+32728274,4226574925,3787975,2011,toimitusjohtaja,Edinson,Henningson,M,A,2604410,255790347,50101,Toimipaikan ylin johto
+32728274,5459007727,3787975,2005,hallituksen puheenjohtaja,Axel,Lindell,M,A,2262920,256056940,50101,Toimipaikan ylin johto
+27880829,4175676935,3146912,2011,toimitusjohtaja,Keir,Finlow-Bates,U,A,,255776908,50101,Toimipaikan ylin johto
+29437767,4975904643,3247249,2011,toimitusjohtaja,Arttu,Sallinen,M,A,1226751,255960652,50101,Toimipaikan ylin johto
+32431067,3994320723,3684357,2011,toimitusjohtaja,Alexander,Matrosov,M,A,3219475,255730555,50101,Toimipaikan ylin johto
+32431067,3994320732,3684357,2005,hallituksen puheenjohtaja,Heikki,Handroos,M,A,-11008693,255730556,50101,Toimipaikan ylin johto
+32573882,4177309839,3757434,2011,toimitusjohtaja,Susanna,Nyman,F,A,-10815242,255778109,50101,Toimipaikan ylin johto
+31015109,2918145086,3344146,2011,toimitusjohtaja,Mika,Malinen,M,A,-10983129,255590977,50101,Toimipaikan ylin johto
+27041945,713262074,3090768,2011,toimitusjohtaja,Oleg,Podsechin,M,A,-10865985,245309589,50101,Toimipaikan ylin johto
+27561334,2855145845,3122146,2751,tutkimusjohtaja,Tomi,Kauppi,M,A,,255584490,50101;50711,Toimipaikan ylin johto;Tutkimus ja tuotekehitys
+27561334,3192158181,3122146,2631,tuotantojohtaja,Oscar,Moradi,M,A,,255620788,50701;50702,Tuotanto;Tuotannon automaatio
+27561334,3728034656,3122146,2211,projektijohtaja,Henk,Leermakers,M,A,,255696578,50701;50702;50711,Tuotanto;Tuotannon automaatio;Tutkimus ja tuotekehitys
+27561334,3728034673,3122146,2011,toimitusjohtaja,Jyri,Smagin,M,A,1584370,255696579,50101,Toimipaikan ylin johto
+28912132,4818511454,3207991,2011,toimitusjohtaja,Tapio,Salmela,M,A,2244257,255925416,50101,Toimipaikan ylin johto
+28912132,5147208734,3207991,2005,hallituksen puheenjohtaja,Kari,Kailasuo,M,A,,255994782,50101,Toimipaikan ylin johto
+27825918,1685030445,3143133,2011,toimitusjohtaja,Seppo,Törmä,M,A,-10857638,255070945,50101,Toimipaikan ylin johto
+26810407,3977883695,3067514,2005,hallituksen puheenjohtaja,Jouni,Nyström,M,A,-11047601,255729024,50101,Toimipaikan ylin johto
+33068175,4539019211,3856573,2011,toimitusjohtaja,Antti,Hämmäinen,M,A,3300102,255860639,50101,Toimipaikan ylin johto
+27073162,727697211,3093217,2011,toimitusjohtaja,Juuso,Kaari,M,A,1120154,245942999,50101,Toimipaikan ylin johto
+27625297,1049122261,3127108,2011,toimitusjohtaja,Tommi,Teronen,M,A,-10551373,251403174,50101,Toimipaikan ylin johto
+28490312,1706267687,3182852,2005,hallituksen puheenjohtaja,Mikko,Valtonen,M,A,-10266557,255174749,50101,Toimipaikan ylin johto
+27187768,4552301390,3100010,2005,hallituksen puheenjohtaja,Timo,Nisula,M,A,-10705153,255863269,50101,Toimipaikan ylin johto
+27528155,999351768,3119772,2005,hallituksen puheenjohtaja,Mikael,Roos,M,A,-10915338,250890323,50101,Toimipaikan ylin johto
+26985899,713250511,3086047,2005,hallituksen puheenjohtaja,Mikko,Ahokas,M,A,-11219601,245308190,50101,Toimipaikan ylin johto
+32930448,4378819837,3832821,2011,toimitusjohtaja,Maria,Jokelainen,F,A,-10439856,255829704,50101,Toimipaikan ylin johto
+32930448,4378819846,3832821,2005,hallituksen puheenjohtaja,Harri,Mäkitie,M,A,-10045698,255829705,50101,Toimipaikan ylin johto
+28260832,1501082393,3168555,2011,toimitusjohtaja,Henri,Laine,M,A,-10990705,254479229,50101,Toimipaikan ylin johto
+26928958,714403580,3079711,2011,toimitusjohtaja,Sebastian,Heinrichs,M,A,-11217993,245576185,50101,Toimipaikan ylin johto
+26928958,3341630706,3079711,2272,HR manager,Pipsa,Peltoniemi,F,A,,255634931,50106,Henkilöstö- ja hallintoasioista vastaava
+30018906,2643236057,3301745,2011,toimitusjohtaja,Patrick,Nyberg,M,A,-11103643,255554603,50101,Toimipaikan ylin johto
+30018906,4980384764,3301745,2005,hallituksen puheenjohtaja,Torsti,Tenhunen,M,A,-10104280,255961505,50101,Toimipaikan ylin johto
+30018906,5831357592,3301745,2141,liiketoimintajohtaja,Miika,Haataja,U,A,,256142341,,
+29499298,3593684808,3254279,2011,toimitusjohtaja,Jani,Räty,M,A,-10135940,255669212,50101,Toimipaikan ylin johto
+30121997,5882380118,3313042,2011,toimitusjohtaja,Juha,Rantala,M,A,-10321113,256151397,50101,Toimipaikan ylin johto
+33212026,4609027039,3880178,2011,toimitusjohtaja,Leevi,Mäkikalli,M,A,3478204,255875064,50101,Toimipaikan ylin johto
+28976734,1935544821,3212121,2011,toimitusjohtaja,Jasu,Koponen,M,A,1173031,255443124,50101,Toimipaikan ylin johto
+32640491,4162433942,3771010,2005,hallituksen puheenjohtaja,Johanna,Tolppola,F,A,2670239,255773470,50101,Toimipaikan ylin johto
+32328924,3913325992,3650664,2011,toimitusjohtaja,Miika,Aulio,M,A,-10865483,255718894,50101,Toimipaikan ylin johto
+31306459,3159941784,3390491,2011,toimitusjohtaja,Arttu,Hilli,M,A,2491707,255617219,50101,Toimipaikan ylin johto
+31306459,6148978974,3390491,2005,hallituksen puheenjohtaja,Laura,Vatanen,F,A,1207146,256180836,50101,Toimipaikan ylin johto
+31591931,4775758935,3516690,2011,toimitusjohtaja,Mustafa,Abdulameer,M,A,2305719,255912155,50101,Toimipaikan ylin johto
+26939657,4287497257,3080567,2011,toimitusjohtaja,Toni,Harri,M,A,1056921,255804959,50101,Toimipaikan ylin johto
+32436861,3997211627,3685734,2011,toimitusjohtaja,Tuomo,Kulomaa,M,A,-10545057,255730850,50101,Toimipaikan ylin johto
+33417961,4774098369,3978724,2011,toimitusjohtaja,Samuel,Sihvonen,M,A,3492581,255911627,50101,Toimipaikan ylin johto
+29661961,4552301504,3263108,2011,toimitusjohtaja,Fredrik,Borgström,M,A,-11189207,255863277,50101,Toimipaikan ylin johto
+32976446,4447590001,3840893,2011,toimitusjohtaja,Patrik,Holopainen,M,A,2898765,255842613,50101,Toimipaikan ylin johto
+29301878,5988601721,3239079,2011,toimitusjohtaja,Tomi,Suomela,M,A,2359567,256161104,50101,Toimipaikan ylin johto
+30946681,2849074069,3336164,2005,hallituksen puheenjohtaja,Tuomas,Kannas,M,A,-10589028,255583383,50101,Toimipaikan ylin johto
+30946681,3027059177,3336164,2011,toimitusjohtaja,Jyrki,Berg,M,A,-10597141,255601843,50101,Toimipaikan ylin johto
+29411671,4422858501,3245653,2011,toimitusjohtaja,Eetu,Ristaniemi,M,A,1115407,255838299,50101,Toimipaikan ylin johto
+29411671,6108341709,3245653,2145,coo,Jatta,Nemeth,U,A,,256176566,,
+29411671,6108341716,3245653,2211,head of development,Anni,Vuolle-Apiala,U,A,,256176567,,
+29411671,6108341723,3245653,2942,account manager,Lotta,Lehti,U,A,,256176568,,
+27899095,5493641000,3147895,2011,toimitusjohtaja,Konsta,Hansson,M,A,-11254001,256063486,50101,Toimipaikan ylin johto
+28744255,1864193608,3199163,2011,toimitusjohtaja,Heikki,Rusama,M,A,1172936,255427824,50101,Toimipaikan ylin johto
+33943347,5200024582,4046483,2011,toimitusjohtaja,Markku,Mäkeläinen,M,A,-10595137,256006393,50101,Toimipaikan ylin johto
+32567757,4157659143,3756211,2005,hallituksen puheenjohtaja,Tuomas,Wuoti,M,A,-11186525,255772475,50101,Toimipaikan ylin johto
+29020072,4573976696,3216359,2011,toimitusjohtaja,Janne,Hietala,M,A,-10961260,255867732,50101,Toimipaikan ylin johto
+27587331,1008712040,3124004,2005,hallituksen puheenjohtaja,Markko,Vaarnas,M,A,-10766898,251010352,50101,Toimipaikan ylin johto
+27587331,3973734890,3124004,2011,toimitusjohtaja,Juha,Mattsson,M,A,-10566047,255728663,50101,Toimipaikan ylin johto
+31071346,3002560501,3348297,2011,toimitusjohtaja,Tuomo,Pentikäinen,M,A,-10474853,255598962,50101,Toimipaikan ylin johto
+26880544,713146586,3075509,2011,toimitusjohtaja,Iiro,Kormi,M,A,1061237,245297193,50101,Toimipaikan ylin johto
+26880544,1835618824,3075509,2005,hallituksen puheenjohtaja,Jyri,Vähä-Pietilä,M,A,1767833,255422414,50101,Toimipaikan ylin johto
+28345131,1555658381,3173995,2011,toimitusjohtaja,Aku,Happo,M,A,-10912895,254706628,50101,Toimipaikan ylin johto
+29543527,2377103686,3257688,2011,toimitusjohtaja,Lauri,Huhdanpää,M,A,-11010087,255516692,50101,Toimipaikan ylin johto
+29543527,2377103695,3257688,2005,hallituksen puheenjohtaja,Janne,Jokela,M,A,1419894,255516693,50101,Toimipaikan ylin johto
+29568919,2372769376,3259110,2011,toimitusjohtaja,Olli,Etuaho,M,A,2444851,255516006,50101,Toimipaikan ylin johto
+27659868,1499735207,3129527,2011,toimitusjohtaja,Juhani,Järvensivu,M,A,2056676,254468548,50101,Toimipaikan ylin johto
+27659868,3082606856,3129527,2931,chief growth officer,Riku,Poutanen,U,A,,255607537,50105,Markkinoinnista vastaava
+27659868,5232501824,3129527,2931,head of marketing,Ina,Viljanen,U,A,,256013502,50113;50105,Asiakaspalvelusta vastaava;Markkinoinnista vastaava
+34109135,5343578018,4067377,2011,toimitusjohtaja,Hannu,Nissinen,M,A,-10942892,256033724,50101,Toimipaikan ylin johto
+34109135,5343578027,4067377,2005,hallituksen puheenjohtaja,Pekka,Mettälä,M,A,-10395694,256033725,50101,Toimipaikan ylin johto
+27861214,1220235100,3145678,2005,hallituksen puheenjohtaja,Jonne,Castrén,M,A,-10580021,252660037,50101,Toimipaikan ylin johto
+27861214,3952199068,3145678,2011,toimitusjohtaja,Harri,Myllylä,M,A,-10328672,255725955,50101,Toimipaikan ylin johto
+32352414,3929359261,3662003,2011,toimitusjohtaja,Juha,Riippi,M,A,1886093,255721167,50101,Toimipaikan ylin johto
+32352414,5619466432,3662003,2145,chief operating officer,Teemu,Uotila,M,A,,256096899,50107,Liiketoiminnan kehitys
+32352414,5619466443,3662003,2931,head of marketing,Jukka,Knuutinen,M,A,,256096900,50105,Markkinoinnista vastaava
+32352414,6148990340,3662003,2641,head of design,Jukka,Hietamäki,M,A,,256181085,50101,Toimipaikan ylin johto
+28282417,2299861918,3169983,2005,hallituksen puheenjohtaja,Jari,Rautjärvi,M,A,-10321211,255505149,50101,Toimipaikan ylin johto
+28282417,4484101572,3169983,2011,toimitusjohtaja,Mikko,Hänninen,M,A,2415974,255849879,50101,Toimipaikan ylin johto
+28282417,5619464031,3169983,2141,business director,Timo,Galkin,M,A,,256096701,50107,Liiketoiminnan kehitys
+28282417,5619464042,3169983,2942,sales manager,Ari,Stjerna,M,A,,256096702,50103,Myynnistä vastaava
+28282417,6099677443,3169983,2931,chief commercial officer,Hanna,Hietama,F,A,,256175689,50107,Liiketoiminnan kehitys
+28282417,6099677454,3169983,2942,sales manager,Panu,Pihl,M,A,,256175690,50103,Myynnistä vastaava
+33972594,5280094567,4049913,2011,toimitusjohtaja,Teemu,Päivinen,M,A,1176612,256022769,50101,Toimipaikan ylin johto
+26946646,714406314,3081254,2011,toimitusjohtaja,Joel,Mansnerus,M,A,-10443026,245576465,50101,Toimipaikan ylin johto
+30206747,2756737868,3322396,2005,hallituksen puheenjohtaja,Olli,Pahkala,M,A,1500746,255570578,50101,Toimipaikan ylin johto
+29126256,5443534988,3225897,2011,toimitusjohtaja,Mikko,Välimäki,M,A,-10578529,256053816,50101,Toimipaikan ylin johto
+30877495,2799108245,3328666,2011,toimitusjohtaja,Sebastian,Nováky,M,A,1645696,255577316,50101,Toimipaikan ylin johto
+30121575,4262820268,3313036,2011,toimitusjohtaja,Tage,Johansson,M,A,-10490305,255798388,50101,Toimipaikan ylin johto
+29884997,2508962130,3276658,2011,toimitusjohtaja,Joonas,Tomperi,M,A,1375601,255532014,50101,Toimipaikan ylin johto
+29884997,2508962139,3276658,2005,hallituksen puheenjohtaja,Fedor,Tyurin,M,A,2507579,255532015,50101,Toimipaikan ylin johto
+33106696,4532266715,3862681,2011,toimitusjohtaja,Matti,Jalasvuori,M,A,3449252,255859277,50101,Toimipaikan ylin johto
+33106696,4903692902,3862681,2005,hallituksen puheenjohtaja,Olli,Porkholm,M,A,-11104676,255944845,50101,Toimipaikan ylin johto
+31423786,4229797338,3494673,2011,toimitusjohtaja,Joonas,Sirviö,M,A,1824682,255791264,50101,Toimipaikan ylin johto
+27808659,2579569016,3141236,2011,toimitusjohtaja,Lassi-Pekka,Taskinen,M,A,1909995,255546118,50101,Toimipaikan ylin johto
+27808659,5575655638,3141236,2005,hallituksen puheenjohtaja,Seppo,Maukonen,M,A,1032829,256089058,50101,Toimipaikan ylin johto
+27781871,1172693592,3139472,2011,toimitusjohtaja,Jukka,Penttinen,M,A,-10060857,252209004,50101,Toimipaikan ylin johto
+27781871,5759298382,3139472,2941,asiakkuus- ja myyntijohtaja,Minna,Riutta,U,A,,256123377,,
+27781871,5759298393,3139472,2632,tuotantopäällikkö,Jari,Villanen,U,A,,256123378,,
+27781871,5759298404,3139472,2942,myyntipäällikkö,Tom,Marttinen,U,A,,256123379,,
+27375312,884083655,3111861,2011,toimitusjohtaja,Kalle,Törmä,M,A,1731229,249437580,50101,Toimipaikan ylin johto
+27375312,2897807292,3111861,2005,hallituksen puheenjohtaja,Timo,Olkkola,M,A,1731230,255588955,50101,Toimipaikan ylin johto
+31530493,3313492082,3510120,2011,toimitusjohtaja,Michaela,Hamara,F,A,-11043977,255631649,50101,Toimipaikan ylin johto
+28462522,2378537637,3181144,2005,hallituksen puheenjohtaja,Juha,Mikkola,M,A,-10099726,255516903,50101,Toimipaikan ylin johto
+28398356,1593756116,3177301,2011,toimitusjohtaja,Matti,Viita,M,A,-11061755,254857665,50101,Toimipaikan ylin johto
+27188082,5944343776,3100024,2011,toimitusjohtaja,Jyrki,Kallinen,M,A,2140266,256158733,50101,Toimipaikan ylin johto
+27504719,3611283934,3118195,2011,toimitusjohtaja,Pia,Moon,F,A,1169373,255672214,50101,Toimipaikan ylin johto
+28413456,2669219789,3178166,2005,hallituksen puheenjohtaja,Sami,Rintala,M,A,-10682064,255557372,50101,Toimipaikan ylin johto
+31472529,3262667477,3502658,2011,toimitusjohtaja,Iuliia,Shnai,F,A,2843516,255627187,50101,Toimipaikan ylin johto
+31535729,3315031427,3511723,2011,toimitusjohtaja,Paulus,Carpelan,M,A,-10666271,255632232,50101,Toimipaikan ylin johto
+27587948,2700748640,3124044,2211,kehitys- ja viestintäjohtaja,Michael,Rossing,M,A,,255561783,,
+27587948,4713758526,3124044,2011,toimitusjohtaja,Börje,Ahlström,M,A,-11010294,255898085,50101,Toimipaikan ylin johto
+28076226,1371711385,3157994,2005,hallituksen puheenjohtaja,Sami,Kaartinen,M,A,-11206541,253867344,50101,Toimipaikan ylin johto
+28076226,1371711394,3157994,2011,toimitusjohtaja,Eetu,Qvist,M,A,1886172,253867345,50101,Toimipaikan ylin johto
+27305576,841393399,3107099,2011,toimitusjohtaja,Markku,Lehtinen,M,A,-11108877,249106763,50101,Toimipaikan ylin johto
+27634142,3937467903,3127662,2005,hallituksen puheenjohtaja,Esko,Pajunen,M,A,-10746022,255721909,50101,Toimipaikan ylin johto
+27290693,5831355126,3106225,2941,sales executive,Jussi,Vepsäläinen,U,A,,256142077,,
+27290693,5831355135,3106225,2942,sales manager,Ferdinand,Simonen,U,A,,256142078,,
+27290693,5831355151,3106225,2941,sales director,Tommi,Tiitinen,U,A,,256142080,,
+26993127,1774450939,3086615,2005,hallituksen puheenjohtaja,Tatu-Matti,Koistinen,M,A,1091248,255402957,50101,Toimipaikan ylin johto
+27293966,1368990431,3106415,2011,toimitusjohtaja,Jukka,Sjöstedt,M,A,-10342280,253862617,50101,Toimipaikan ylin johto
+27577221,999353311,3123246,2011,toimitusjohtaja,Tuomas,Rasila,M,A,-10987392,250890489,50101,Toimipaikan ylin johto
+27592253,3667181464,3124386,2011,toimitusjohtaja,Jarkko,Antila,M,A,1080318,255683812,50101,Toimipaikan ylin johto
+27592253,3982025806,3124386,2005,hallituksen puheenjohtaja,Inka,Mero,F,A,-10637460,255729337,50101,Toimipaikan ylin johto
+27609019,1027620570,3125819,2011,toimitusjohtaja,Matias,Tainela,M,A,-10644043,251213321,50101,Toimipaikan ylin johto
+33697123,5002920591,4014457,2011,toimitusjohtaja,Kristoffer,Östman,M,A,3413792,255966562,50101,Toimipaikan ylin johto
+27630854,1049122304,3127478,2011,toimitusjohtaja,Ilona,Mooney,F,A,-10967854,251403178,50101,Toimipaikan ylin johto
+28217703,3889209501,3165928,2005,hallituksen puheenjohtaja,Lauri,Puolanne,M,A,-10897967,255715799,50101,Toimipaikan ylin johto
+31295569,6171841926,3487011,2011,toimitusjohtaja,Niko,Salonen,M,A,-10548843,256184404,50101,Toimipaikan ylin johto
+32664899,5780378963,3775004,2011,toimitusjohtaja,Ville,Hyvärinen,M,A,2646406,256128615,50101,Toimipaikan ylin johto
+32664899,5780378972,3775004,2005,hallituksen puheenjohtaja,Jan-Erik,Lindfors,M,A,3336239,256128616,50101,Toimipaikan ylin johto
+28496749,1697674167,3183300,2011,toimitusjohtaja,Juho,Toivola,M,A,1212264,255150544,50101,Toimipaikan ylin johto
+28496749,3149211824,3183300,2005,hallituksen puheenjohtaja,Juha-Matti,Toivola,M,A,-10229307,255615743,50101,Toimipaikan ylin johto
+28746883,1835624823,3199304,2011,toimitusjohtaja,Tuomas,Tikkanen,M,A,2210472,255423042,50101,Toimipaikan ylin johto
+28746883,1835624832,3199304,2005,hallituksen puheenjohtaja,Juho,Tikkanen,M,A,1177252,255423043,50101,Toimipaikan ylin johto
+27164275,3536558193,3098734,2011,toimitusjohtaja,Ville,Heinonen,M,A,-10409297,255658438,50101,Toimipaikan ylin johto
+29462268,2299862356,3250795,2005,hallituksen puheenjohtaja,Sami,Räisänen,M,A,-10565438,255505196,50101,Toimipaikan ylin johto
+27894972,4175677081,3147702,2011,toimitusjohtaja,Dan-Marius,Dinca,U,A,,255776936,50101,Toimipaikan ylin johto
+34701649,5979728402,4133908,2011,toimitusjohtaja,Antti,Ala-Ilkka,M,A,-10613269,256160454,50101,Toimipaikan ylin johto
+27958526,3124544463,3151208,2011,toimitusjohtaja,Teppo,Hudsson,M,A,-10955156,255612061,50101,Toimipaikan ylin johto
+31961031,3640084614,3572183,2005,hallituksen puheenjohtaja,Martin,Kangasniemi,M,A,1914774,255679685,50101,Toimipaikan ylin johto
+27024491,713255548,3089372,2011,toimitusjohtaja,Peitsa,Turvanen,M,A,1576342,245308746,50101,Toimipaikan ylin johto
+28080137,1373037135,3158095,2011,toimitusjohtaja,Jorma,Marttila,M,A,-10533893,253886859,50101,Toimipaikan ylin johto
+28080137,3871378981,3158095,2005,hallituksen puheenjohtaja,Susanna,Hämäläinen,F,A,2003993,255713890,50101,Toimipaikan ylin johto
+33898224,5183012143,4040777,2005,hallituksen puheenjohtaja,Miika,Luiro,M,A,3531386,256003002,50101,Toimipaikan ylin johto
+33898224,5183012152,4040777,2011,toimitusjohtaja,Tommi,Keränen,M,A,1080888,256003003,50101,Toimipaikan ylin johto
+32637436,4160856547,3770413,2005,hallituksen puheenjohtaja,Suman,Rath,U,A,2069538,255773185,50101,Toimipaikan ylin johto
+32637436,4160856556,3770413,2011,toimitusjohtaja,Tomi,Toikka,M,A,2117839,255773186,50101,Toimipaikan ylin johto
+27298134,822996476,3106637,2011,toimitusjohtaja,Juha,Elonen,M,A,-10295231,248985718,50101,Toimipaikan ylin johto
+27298134,5759297070,3106637,2005,chairman of the board,Jarmo,Nurmi,U,A,,256123242,,
+27298134,5759297081,3106637,2642,engineering manager,Pertti,Kahra,U,A,,256123243,,
+27298134,5759297092,3106637,2622,technology manager,Heikki,Kauranne,U,A,,256123244,,
+31400365,3198219822,3491827,2011,toimitusjohtaja,Ari,Salmi,M,A,-10632643,255621790,50101,Toimipaikan ylin johto
+31319516,4329041528,3455808,2011,toimitusjohtaja,Jari-Pekka,Taipale,M,A,-10407160,255816030,50101,Toimipaikan ylin johto
+26839322,713142505,3070679,2005,hallituksen puheenjohtaja,Markku,Salmela,M,A,-11161179,245296782,50101,Toimipaikan ylin johto
+28061139,1373036973,3157453,2005,hallituksen puheenjohtaja,Arto,Koistinen,M,A,-11230940,253886841,50101,Toimipaikan ylin johto
+31234272,3101132423,3370748,2011,toimitusjohtaja,Jaakko,Kaikuluoma,M,A,1609298,255609708,50101,Toimipaikan ylin johto
+32498472,4134861398,3717444,2005,hallituksen puheenjohtaja,Veli-Erkki,Ruotsalainen,M,A,1168471,255768920,50101,Toimipaikan ylin johto
+28747237,1860007035,3199351,2005,hallituksen puheenjohtaja,Ari,Lapveteläinen,M,A,-10249664,255426757,50101,Toimipaikan ylin johto
+28747237,2532975203,3199351,2011,toimitusjohtaja,Niklas,Eriksson,U,A,1434919,255535670,50101,Toimipaikan ylin johto
+34665545,5762776620,4129557,2011,toimitusjohtaja,Lari-Kustaa,Lehto,M,A,2060416,256124761,50101,Toimipaikan ylin johto
+27768458,1176877981,3138601,2005,hallituksen puheenjohtaja,Veikko,Kantero,M,A,-10043389,252331910,50101,Toimipaikan ylin johto
+27768458,4555559443,3138601,2011,toimitusjohtaja,Jussi,Lemiläinen,M,A,1041840,255864004,50101,Toimipaikan ylin johto
+31076358,5285223325,3348613,2011,toimitusjohtaja,Elias,Ojala,M,A,2629775,256023925,50101,Toimipaikan ylin johto
+31076358,5285223334,3348613,2005,hallituksen puheenjohtaja,Simo,Naatula,M,A,2881697,256023926,50101,Toimipaikan ylin johto
+29798781,2519435738,3266946,2011,toimitusjohtaja,Susanna,Ilmonen,F,A,-10980083,255534023,50101,Toimipaikan ylin johto
+29865833,2534447877,3269710,2011,toimitusjohtaja,Pertti,Pigg,M,A,-10608446,255535906,50101,Toimipaikan ylin johto
+29865833,2534447886,3269710,2005,hallituksen puheenjohtaja,Timo,Yli-Salomäki,M,A,-10686739,255535907,50101,Toimipaikan ylin johto
+27278774,6108339598,3105666,2190,advisor,Neil,Gunn,U,A,,256176362,,
+27278774,6143584435,3105666,2011,toimitusjohtaja,Manu,Tamminen,M,A,2040278,256180169,50101,Toimipaikan ylin johto
+31368318,5431472433,3487894,2011,toimitusjohtaja,Janne,Pirttilahti,M,A,-11029745,256051929,50101,Toimipaikan ylin johto
+31368318,5759303509,3487894,2942,sales manager,Aleksi,Aukia,U,A,,256123896,,
+31368318,5759303520,3487894,2931,chief commercial officer,Tatu,Monto,U,A,,256123897,,
+31368318,6157714216,3487894,3111,chief information officer,Tero,Takalo,U,A,,256182504,,
+27510326,2691744620,3118540,2011,toimitusjohtaja,Jani,Rajala,M,A,-11117473,255560590,50101,Toimipaikan ylin johto
+26929387,5211943674,3085792,2011,toimitusjohtaja,Seppo,Hatunen,M,A,3526144,256008327,50101,Toimipaikan ylin johto
+27689573,1113002919,3132002,2011,toimitusjohtaja,Harri,Honkanen,M,A,1065858,251870028,50101,Toimipaikan ylin johto
+27408508,909543501,3113370,2011,toimitusjohtaja,Janne,Montonen,M,A,1740993,249763063,50101,Toimipaikan ylin johto
+31281351,3090195274,3378790,2005,hallituksen puheenjohtaja,Juha,Yrjölä,M,A,-11054492,255608390,50101,Toimipaikan ylin johto
+31281351,3090195283,3378790,2011,toimitusjohtaja,Sonja-Maria,Ignatius,F,A,2767930,255608391,50101,Toimipaikan ylin johto
+32638965,4167492000,3770470,2011,toimitusjohtaja,Laura,Avonius,F,A,1048735,255774423,50101,Toimipaikan ylin johto
+30147695,2727713036,3315738,2011,toimitusjohtaja,Jarmo,Järvinen,M,A,-10468138,255566176,50101,Toimipaikan ylin johto
+29568548,2374222263,3259091,2011,toimitusjohtaja,Rami,Saajoranta,M,A,-11240006,255516250,50101,Toimipaikan ylin johto
+29568548,4959133772,3259091,2005,hallituksen puheenjohtaja,Teemu,Koskinen,M,A,-11114667,255956483,50101,Toimipaikan ylin johto
+31899987,4565653905,3566004,2011,toimitusjohtaja,Anton,Sonin,M,A,1125688,255866081,50101,Toimipaikan ylin johto
+31625011,3377315233,3521622,2011,toimitusjohtaja,Jaro,Junnila,M,A,-10520503,255641066,50101,Toimipaikan ylin johto
+28915464,1973556629,3208305,2011,toimitusjohtaja,Kaisa,Vuorinen,F,A,1442179,255453148,50101,Toimipaikan ylin johto
+30932247,2850564916,3334686,2011,toimitusjohtaja,Lasse,Louhento,M,A,-11042143,255583564,50101,Toimipaikan ylin johto
+27266941,841392993,3104867,2011,toimitusjohtaja,Timo,Virtanen,M,A,1015953,249106720,50101,Toimipaikan ylin johto
+32726383,4226574556,3786938,2011,toimitusjohtaja,Hanna,Viljanmaa,F,A,1158466,255790307,50101,Toimipaikan ylin johto
+33865086,5150595209,4036729,2011,toimitusjohtaja,Robert,Holmberg,M,A,3341314,255995960,50101,Toimipaikan ylin johto
+27854524,1218915543,3145295,2020,liikkeenharjoittaja,Johannes,Rojola,M,A,1931188,252651664,50101,Toimipaikan ylin johto
+28569303,2222622286,3187739,2011,toimitusjohtaja,Jarno,Soinila,M,A,-10137404,255494289,50101,Toimipaikan ylin johto
+32585509,5799644839,3760655,2011,toimitusjohtaja,John,Höglund,M,A,1006685,256131931,50101,Toimipaikan ylin johto
+31655712,5870038444,3524345,2011,toimitusjohtaja,Daniil,Bagaev,M,A,3483762,256148522,50101,Toimipaikan ylin johto
+28483534,1648314411,3182446,2011,toimitusjohtaja,Annu,Nieminen,F,A,1517308,254950566,50101,Toimipaikan ylin johto
+29400657,5831357423,3244921,2142,operations manager,Annina,Kasvi,U,A,,256142324,,
+29400657,6143584570,3244921,2011,toimitusjohtaja,Pekka,Blomberg,M,A,-10124266,256180177,50101,Toimipaikan ylin johto
+31162846,5914194103,3357297,2011,toimitusjohtaja,Anton,Poppel,M,A,2764686,256155219,50101,Toimipaikan ylin johto
+33188628,4681442669,3876840,2005,hallituksen puheenjohtaja,Jari,Sonninen,M,A,-10746791,255889712,50101,Toimipaikan ylin johto
+28398903,1624598344,3177330,2011,toimitusjohtaja,Toni,Laurila,M,A,1214904,254896365,50101,Toimipaikan ylin johto
+27325868,850665927,3108386,2005,hallituksen puheenjohtaja,Heikki,Lehtonen,M,A,1064054,249248669,50101,Toimipaikan ylin johto
+28721168,2085524650,3197515,2011,toimitusjohtaja,Pasi,Vainikka,M,A,-11160340,255471988,50101,Toimipaikan ylin johto
+28721168,5759300547,3197515,2231,chief financial officer,Ilkka,Saura,U,A,,256123599,,
+28721168,6157715159,3197515,2145,chief operating officer,Tiia,Kuusimäki,U,A,,256182600,,
+27168583,737825726,3098978,2011,toimitusjohtaja,Mikko,Lehmus,M,A,-11228700,246147885,50101,Toimipaikan ylin johto
+31985877,3644830220,3574769,2011,toimitusjohtaja,Mika,Jokiranta,M,A,-10372161,255680787,50101,Toimipaikan ylin johto
+31985877,5960280208,3574769,2005,hallituksen puheenjohtaja,Tuomas,Mattila,M,A,-10736657,256159897,50101,Toimipaikan ylin johto
+28169537,1417702759,3161909,2011,toimitusjohtaja,Henri,Kähkönen,M,A,1130324,254095813,50101,Toimipaikan ylin johto
+31842729,3547682504,3558861,2011,toimitusjohtaja,Daniel,Bumann,M,A,2730328,255661039,50101,Toimipaikan ylin johto
+32668451,4170731565,3775770,2011,toimitusjohtaja,Mika,Kuusisto,M,A,1080882,255775517,50101,Toimipaikan ylin johto
+34356689,5497188853,4094665,2011,toimitusjohtaja,Edgar,Vaab,M,A,3561556,256064032,50101,Toimipaikan ylin johto
+29909349,2590168778,3279771,2005,hallituksen puheenjohtaja,Mats,Rönnback,M,A,-10685964,255547730,50101,Toimipaikan ylin johto
+29909349,3881151645,3279771,2011,toimitusjohtaja,Erik,Mandelin,M,A,-10368911,255715121,50101,Toimipaikan ylin johto
+33763186,5060577310,4023074,2011,toimitusjohtaja,Filip,Bovin,M,A,-11200964,255977327,50101,Toimipaikan ylin johto
+29950122,2573692880,3290433,2011,toimitusjohtaja,Tuure,Karhu,M,A,1520857,255545410,50101,Toimipaikan ylin johto
+26874531,1152020354,3075073,2011,toimitusjohtaja,Eljas,Jokinen,M,A,-11200809,252080424,50101,Toimipaikan ylin johto
+26874531,4041649933,3075073,2942,aluemyyntipäällikkö,Sami,Nivala,M,A,,255750173,50103,Myynnistä vastaava
+26874531,4277766744,3075073,2931,CCO,Sampo,Järnefelt,M,A,,255803140,50103;50105,Myynnistä vastaava;Markkinoinnista vastaava
+26874531,5607269342,3075073,2231,cfo,Juho,Lassila,M,A,,256094511,50102,Taloudesta vastaava
+26874531,6099676569,3075073,2942,aluemyyntipäällikkö,Johan,Gustafsson,M,A,,256175622,50103,Myynnistä vastaava
+26874531,6099676580,3075073,2145,operatiivinen johtaja,Laura,Tokeensuu,F,A,,256175623,50101,Toimipaikan ylin johto
+26874531,6124268870,3075073,2232,controller,Tuomas,Herttua,M,A,,256177647,50102,Taloudesta vastaava
+26874531,6136577728,3075073,2632,tuotantopäällikkö,Mikko,Seilo,M,A,,256179300,50701,Tuotanto
+31670787,3420975707,3525983,2011,toimitusjohtaja,Roope,Kekäläinen,M,A,1215612,255645443,50101,Toimipaikan ylin johto
+28912685,2981091129,3208013,2011,toimitusjohtaja,Jouni,Mannerhovi,M,A,-10126756,255596795,50101,Toimipaikan ylin johto
+28912685,3914930425,3208013,2005,hallituksen puheenjohtaja,Juho,Jokinen,M,A,-11257181,255719208,50101,Toimipaikan ylin johto
+28912685,5759300806,3208013,2145,coo,Patrick,Glantz,U,A,,256123624,,
+27006568,713166491,3087888,2011,toimitusjohtaja,Mikko,Lintunen,M,A,1384692,245299182,50101,Toimipaikan ylin johto
+32325539,4136480813,3649531,2011,toimitusjohtaja,Kari,Antila,M,A,-10647021,255769155,50101,Toimipaikan ylin johto
+32325539,6124271895,3649531,2632,production manager,Jukka,Valtonen,M,A,,256177852,50701,Tuotanto
+32325539,6124271906,3649531,2141,cso,Kaisa,Huhtinen,F,A,,256177853,50101,Toimipaikan ylin johto
+32325539,6124271917,3649531,2141,business director,Erno,Sundberg,M,A,,256177854,50107,Liiketoiminnan kehitys
+32325539,6124271928,3649531,2942,sales manager,Veikko,Wahlroos,M,A,,256177855,50103,Myynnistä vastaava
+32325539,6124271939,3649531,2631,head of production,Ida,Erling,F,A,,256177856,50701,Tuotanto
+32325539,6124271950,3649531,2942,key account manager,Elena,Back,F,A,,256177857,50103,Myynnistä vastaava
+32325539,6124271961,3649531,2216,business development manager,Jarkko,Karvinen,M,A,,256177858,50107,Liiketoiminnan kehitys
+32599855,4160855980,3763247,2005,hallituksen puheenjohtaja,Samuli,Syvähuoko,M,A,-10166248,255773122,50101,Toimipaikan ylin johto
+32599855,5092833614,3763247,2011,toimitusjohtaja,Jani,Penttinen,M,A,-10268535,255983531,50101,Toimipaikan ylin johto
+30148436,2721823661,3315782,2011,toimitusjohtaja,Petter,Skult,M,A,2065221,255565148,50101,Toimipaikan ylin johto
+29828792,4241349626,3267759,2005,hallituksen puheenjohtaja,Matti,Vikkula,M,A,-10080876,255793934,50101,Toimipaikan ylin johto
+31655325,3413172753,3526719,2005,hallituksen puheenjohtaja,Tero,Tammisto,M,A,-11103889,255644621,50101,Toimipaikan ylin johto
+27288999,832170203,3108301,2011,toimitusjohtaja,Maria,Alm,F,A,1683937,249001366,50101,Toimipaikan ylin johto
+27288999,832170212,3108301,2005,hallituksen puheenjohtaja,Tytti,Julkunen,F,A,-10612632,249001367,50101,Toimipaikan ylin johto
+30951579,2844402362,3336841,2005,hallituksen puheenjohtaja,Harri,Salokangas,M,A,-10636173,255582906,50101,Toimipaikan ylin johto
+29142504,4437654052,3227142,2011,toimitusjohtaja,Peter,Nisula,M,A,-10991871,255840953,50101,Toimipaikan ylin johto
+29142504,6157712329,3227142,2145,coo,Tero,Lehtonen,U,A,,256182324,,
+31589436,3355538267,3516545,2005,hallituksen puheenjohtaja,Ilkka,Paananen,M,A,-10587345,255636490,50101,Toimipaikan ylin johto
+32506874,4054793774,3718003,2011,toimitusjohtaja,Olli,Kamunen,M,A,-11251601,255753095,50101,Toimipaikan ylin johto
+27576544,2458201518,3123205,2011,toimitusjohtaja,Antti,Känsälä,M,A,1367477,255526297,50101,Toimipaikan ylin johto
+32052788,5116847815,3582054,2011,toimitusjohtaja,Harri,Lehti,M,A,-10467299,255988150,50101,Toimipaikan ylin johto
+28260939,1480353000,3168562,2005,hallituksen puheenjohtaja,Hannu,Vahokoski,M,A,-11238246,254343867,50101,Toimipaikan ylin johto
+27328225,846752588,3108505,2011,toimitusjohtaja,Teemu,Karenius,M,A,1687137,249127519,50101,Toimipaikan ylin johto
+27328225,3635111639,3108505,2751,tuotekehitysjohtaja,Jouni,Stam,M,A,,255674841,50711,Tutkimus ja tuotekehitys
+27328225,4942447967,3108505,2931,commercial director,Atte,Kniivilä,M,A,,255953242,50105,Markkinoinnista vastaava
+29054168,1976352095,3220256,2011,toimitusjohtaja,Lauri,Rouhiainen,M,A,2270252,255453691,50101,Toimipaikan ylin johto
+27993639,1323512179,3153577,2011,toimitusjohtaja,Peik,Åström,M,A,-10926601,253588157,50101,Toimipaikan ylin johto
+34343351,5493641442,4092976,2011,toimitusjohtaja,Tatu,Koivisto,M,A,1637239,256063521,50101,Toimipaikan ylin johto
+27707946,1506717701,3133640,2005,hallituksen puheenjohtaja,Ilkka,Jaakkola,M,A,-10001524,254490760,50101,Toimipaikan ylin johto
+27707946,1506717710,3133640,2011,toimitusjohtaja,Tommi,Salonen,M,A,-10664676,254490761,50101,Toimipaikan ylin johto
+33392098,4760172431,3975549,2011,toimitusjohtaja,Hanna,Toivonen,F,A,1872672,255908608,50101,Toimipaikan ylin johto
+28012345,1342716652,3154798,2005,hallituksen puheenjohtaja,Kimmo,Kumpulainen,M,A,-10660043,253692983,50101,Toimipaikan ylin johto
+28012345,1342716661,3154798,2011,toimitusjohtaja,Maria,Haapaniemi,F,A,1047878,253692984,50101,Toimipaikan ylin johto
+31553724,3324305011,3512943,2005,hallituksen puheenjohtaja,Seppo,Ylä-Herttuala,M,A,-10128466,255633338,50101,Toimipaikan ylin johto
+31553724,5352212878,3512943,2011,toimitusjohtaja,Erkko,Ylösmäki,M,A,1645081,256035286,50101,Toimipaikan ylin johto
+31319372,4177309795,3455804,2005,hallituksen puheenjohtaja,Jorma,Ollila,M,A,-10748745,255778105,50101,Toimipaikan ylin johto
+29408798,2278951848,3245397,2005,hallituksen puheenjohtaja,Markku,Sopanen,M,A,-10865365,255502646,50101,Toimipaikan ylin johto
+29408798,4460831681,3245397,2011,toimitusjohtaja,Nagarajan,Subramaniyam,M,A,2403780,255844692,50101,Toimipaikan ylin johto
+32977131,4416161711,3840926,2011,toimitusjohtaja,Anna-Sofia,Sillanpää,F,A,3397919,255837268,50101,Toimipaikan ylin johto
+28619622,5711966859,3191065,2005,hallituksen puheenjohtaja,Timo,Makkonen,M,A,1187085,256111440,50101,Toimipaikan ylin johto
+28619622,5759300090,3191065,2145,chief operating officer,Timo,Moilanen,U,A,,256123554,,
+30125138,6132958899,3313358,2011,toimitusjohtaja,Sanna,Taskila,F,A,1573752,256178727,50101,Toimipaikan ylin johto
+28222588,5759299494,3166279,2005,hallituksen puheenjohtaja,Sirpa,Peura,U,A,,256123489,,
+28327531,3014807343,3172840,2011,toimitusjohtaja,Jukka,Kortelainen,M,A,1298586,255600385,50101,Toimipaikan ylin johto
+28327531,5997310598,3172840,2941,sales and marketing director,Kaisu,Sutinen,U,A,,256161933,,
+28009277,2121396379,3154612,2011,toimitusjohtaja,Juuso,Blomster,M,A,-10374698,255477464,50101,Toimipaikan ylin johto
+28464544,1627332375,3181230,2011,toimitusjohtaja,Henrik,Terävä,M,A,-10475635,254908343,50101,Toimipaikan ylin johto
+31526478,3335403802,3509504,2011,toimitusjohtaja,Mikko,Kodisoja,M,A,-10362082,255634348,50101,Toimipaikan ylin johto
+33287749,5429765750,3961805,2011,toimitusjohtaja,Pasi,Keinänen,M,A,-10020935,256051613,50101,Toimipaikan ylin johto
+27665846,1066852061,3129956,2005,hallituksen puheenjohtaja,Max,Samarin,M,A,1834540,251560494,50101,Toimipaikan ylin johto
+27665846,1066852070,3129956,2011,toimitusjohtaja,Oskari,Liukku,M,A,1834541,251560495,50101,Toimipaikan ylin johto
+31500315,6007893718,3506488,2011,toimitusjohtaja,Tuomas,Rinta,M,A,-10566950,256162624,50101,Toimipaikan ylin johto
+34642407,5734750624,4126712,2011,toimitusjohtaja,Jari,Karlsson,M,A,-10297973,256114829,50101,Toimipaikan ylin johto
+27395348,881416685,3112871,2005,hallituksen puheenjohtaja,Mikko,Maijala,M,A,-10024507,249395920,50101,Toimipaikan ylin johto
+27395348,5573845531,3112871,2011,toimitusjohtaja,Tapani,Niskanen,M,A,-10386085,256084352,50101,Toimipaikan ylin johto
+32712512,4285901873,3784866,2011,toimitusjohtaja,Sebastian,Mellblom,M,A,2034685,255804669,50101,Toimipaikan ylin johto
+32712512,5011499927,3784866,2005,hallituksen puheenjohtaja,Johan,Uunila,M,A,-10445517,255968364,50101,Toimipaikan ylin johto
+27353842,881414651,3110598,2005,hallituksen puheenjohtaja,Saku,Mikkola,M,A,-10585764,249395681,50101,Toimipaikan ylin johto
+27353842,881414660,3110598,2011,toimitusjohtaja,Sami,Hänninen,M,A,-10585765,249395682,50101,Toimipaikan ylin johto
+29883599,3644829340,3276152,2011,toimitusjohtaja,Max,Heino,M,A,2507406,255680699,50101,Toimipaikan ylin johto
+28358661,1605012841,3174777,2011,toimitusjohtaja,Samu,Saaristo,M,A,-10008436,254876425,50101,Toimipaikan ylin johto
+28643251,1757342458,3192628,2011,toimitusjohtaja,Vasiliki,Miheludaki,F,A,2178829,255347576,50101,Toimipaikan ylin johto
+31327372,3141496368,3482881,2011,toimitusjohtaja,Matti,Timonen,M,A,2787286,255614636,50101,Toimipaikan ylin johto
+27182799,5164208620,3099799,2011,toimitusjohtaja,Henri,Karjalainen,M,A,1640270,255999069,50101,Toimipaikan ylin johto
+27036142,5230845618,3090309,2632,product manager,Valtteri,Kämäräinen,M,A,,256012938,50701,Tuotanto
+33424387,5685761177,3979663,2011,toimitusjohtaja,Jaakko,Kalsi,M,A,2105610,256107689,50101,Toimipaikan ylin johto
+32581823,4169112836,3759783,2005,hallituksen puheenjohtaja,Eero,Wahlstedt,M,A,3271625,255775110,50101,Toimipaikan ylin johto
+32648071,4203602040,3772381,2005,hallituksen puheenjohtaja,Jussi,Määttä,M,A,-10922367,255785898,50101,Toimipaikan ylin johto
+32648071,4203602049,3772381,2011,toimitusjohtaja,Esa-Matti,Karine,M,A,-10025936,255785899,50101,Toimipaikan ylin johto
+31268667,5671774916,3376663,2011,toimitusjohtaja,Ville,Heijari,M,A,-11280072,256105329,50101,Toimipaikan ylin johto
+33243586,4627444941,3896739,2011,toimitusjohtaja,Jani-Mikael,Kuusisto,M,A,-10732015,255878827,50101,Toimipaikan ylin johto
+33243586,4949129587,3896739,2005,hallituksen puheenjohtaja,Petri,Kalliokoski,M,A,-10646529,255954068,50101,Toimipaikan ylin johto
+31480756,5692814695,3503801,2941,head of sales & marketing,Tomi,Virtanen,M,A,,256108976,50105,Markkinoinnista vastaava
+31480756,6066208391,3503801,2011,toimitusjohtaja,Simo,Salmensuu,M,A,-11212408,256170928,50101,Toimipaikan ylin johto
+31480756,6124270620,3503801,2621,cto,Henri,Hartikainen,M,A,,256177747,50501,Tietohallinto
+29044322,1964800739,3219173,2011,toimitusjohtaja,Pasi,Porkka,M,A,-10633784,255451064,50101,Toimipaikan ylin johto
+27588246,2408187236,3124113,2011,toimitusjohtaja,Jussi,Wright,M,A,-10291672,255520140,50101,Toimipaikan ylin johto
+34557472,5650770716,4117770,2011,toimitusjohtaja,Pauli-Tapio,Lahtinen,M,A,3546805,256101930,50101,Toimipaikan ylin johto
+33848454,5265137875,4034394,2011,toimitusjohtaja,Tomi,Pyrhönen,M,A,-11179216,256020017,50101,Toimipaikan ylin johto
+28347081,1530304018,3174080,2011,toimitusjohtaja,Antti,Renko,M,A,2073363,254560408,50101,Toimipaikan ylin johto
+27862057,1218916142,3145712,2011,toimitusjohtaja,Eero,Laaksonen,M,A,-11206310,252651721,50101,Toimipaikan ylin johto
+28809514,3414678759,3203268,2005,hallituksen puheenjohtaja,Peter,Brandt,M,A,-10034464,255644779,50101,Toimipaikan ylin johto
+33354286,4729385196,3970537,2005,hallituksen puheenjohtaja,Joona,Kotilainen,M,A,1020021,255903042,50101,Toimipaikan ylin johto
+33192934,4598989760,3877295,2005,hallituksen puheenjohtaja,Mikko,Hämeranta,M,A,3476766,255872853,50101,Toimipaikan ylin johto
+33192934,4598989769,3877295,2011,toimitusjohtaja,Anton,Ramsay,M,A,-10344375,255872854,50101,Toimipaikan ylin johto
+32919556,4373901797,3831233,2011,toimitusjohtaja,Joonas,Vyhtinen,M,A,3075129,255828440,50101,Toimipaikan ylin johto
+32919556,4373901806,3831233,2005,hallituksen puheenjohtaja,Kari,Vyhtinen,M,A,-10132046,255828441,50101,Toimipaikan ylin johto
+31891803,3577927904,3565102,2011,toimitusjohtaja,Antti,Törrönen,M,A,-10953763,255666629,50101,Toimipaikan ylin johto
+33451713,4803031261,3983004,2011,toimitusjohtaja,Pasi,Jokinen,M,A,-11165543,255917350,50101,Toimipaikan ylin johto
+32981974,4422859073,3842094,2011,toimitusjohtaja,Petter,Larsen,M,A,-10970678,255838360,50101,Toimipaikan ylin johto
+27362132,865437023,3111095,2011,toimitusjohtaja,Sampsa,Kuha,M,A,1722725,249340442,50101,Toimipaikan ylin johto
+32109166,3732811792,3589312,2011,toimitusjohtaja,Ville,Leppälä,M,A,2040208,255697290,50101,Toimipaikan ylin johto
+32109166,3732811801,3589312,2005,hallituksen puheenjohtaja,Ville,Lehto,M,A,3093564,255697291,50101,Toimipaikan ylin johto
+29547034,2403823655,3257887,2011,toimitusjohtaja,Saku,Tuominen,M,A,-10005302,255519484,50101,Toimipaikan ylin johto
+29547034,4305769703,3257887,2005,hallituksen puheenjohtaja,Niko,Ketvel,M,A,1116983,255809593,50101,Toimipaikan ylin johto
+28799993,1892918699,3202806,2005,hallituksen puheenjohtaja,Teemu,Toivonen,M,A,2236485,255433119,50101,Toimipaikan ylin johto
+30021769,2626704503,3302070,2011,toimitusjohtaja,Eero,Kuurne,M,A,2553723,255551936,50101,Toimipaikan ylin johto
+30021769,5213622082,3302070,2005,hallituksen puheenjohtaja,Matias,Harju,M,A,-10433438,256008610,50101,Toimipaikan ylin johto
+27708324,1139904098,3133655,2011,toimitusjohtaja,Svante,Lehtinen,M,A,-10832526,252011919,50101,Toimipaikan ylin johto
+27740017,3077944323,3136395,2011,toimitusjohtaja,Vamsi,Palukuru,U,A,1867364,255606607,50101,Toimipaikan ylin johto
+28511451,1741750444,3184113,2011,toimitusjohtaja,Arne,Schlenzka,M,A,2106841,255292965,50101,Toimipaikan ylin johto
+33625605,4964741285,4005745,2011,toimitusjohtaja,Mikko,Murto,M,A,3507412,255957609,50101,Toimipaikan ylin johto
+31483316,3313490278,3504293,2011,toimitusjohtaja,Heikki,Liimatainen,M,A,-10592823,255631456,50101,Toimipaikan ylin johto
+31483316,3313490293,3504293,2005,hallituksen puheenjohtaja,Markku,Nieminen,M,A,-10778334,255631457,50101,Toimipaikan ylin johto
+31307654,3138462217,3390782,2011,toimitusjohtaja,Johannes,Salmisaari,M,A,2474108,255614068,50101,Toimipaikan ylin johto
+31307654,5147211490,3390782,2005,hallituksen puheenjohtaja,Henrik,Helenius,M,A,,255994993,50101,Toimipaikan ylin johto
+26967252,714414739,3084600,2005,hallituksen puheenjohtaja,Peik,Hämekoski,M,A,1541662,245577317,50101,Toimipaikan ylin johto
+28324242,1537458516,3172629,2011,toimitusjohtaja,Juha,Nuutinen,M,A,-10994152,254578224,50101,Toimipaikan ylin johto
+28324242,5573854270,3172629,2931,commercial officer,Paul,Arpikari,M,A,,256084823,50107,Liiketoiminnan kehitys
+33198092,4598990941,3878176,2011,toimitusjohtaja,Mauno,Rantanen,M,A,3477183,255872960,50101,Toimipaikan ylin johto
+27191417,761499437,3100210,2005,hallituksen puheenjohtaja,Janne,Kallio,M,A,-10649751,246503046,50101,Toimipaikan ylin johto
+33222283,4612335803,3881590,2005,hallituksen puheenjohtaja,Antti,Ijäs,M,A,1006473,255875887,50101,Toimipaikan ylin johto
+33222283,4612335812,3881590,2011,toimitusjohtaja,Kalle,Koutajoki,M,A,-11184431,255875888,50101,Toimipaikan ylin johto
+31841136,3546140280,3558798,2011,toimitusjohtaja,Kristofer,Korhonen,M,A,1190982,255660662,50101,Toimipaikan ylin johto
+27522589,1470556595,3119363,2011,toimitusjohtaja,Konstantinos,Spartiotis,M,A,-10751203,254296602,50101,Toimipaikan ylin johto
+29470516,4472477443,3251515,2011,toimitusjohtaja,Jesse,Sevon,M,A,2410650,255847751,50101,Toimipaikan ylin johto
+32038476,3731228464,3580398,2011,toimitusjohtaja,Jussi-Heikki,Kiviniemi,M,A,1279043,255696964,50101,Toimipaikan ylin johto
+32968403,4402952654,3839297,2011,toimitusjohtaja,Heini,Salonen,F,A,1116068,255834708,50101,Toimipaikan ylin johto
+31244841,3065585014,3372788,2011,toimitusjohtaja,Henri,Nousiainen,M,A,1165708,255605069,50101,Toimipaikan ylin johto
+35000553,6018499148,4166672,2011,toimitusjohtaja,Noora,Hujala,F,A,-10897420,256164556,50101,Toimipaikan ylin johto
+27121523,3728032879,3096373,2942,sales manager,Natascha,Wohlgemuth,F,A,,255696451,50103,Myynnistä vastaava
+27121523,4277766814,3096373,2011,toimitusjohtaja,Terja,Koskenoja,F,A,2955837,255803145,50101,Toimipaikan ylin johto
+27121523,5230845711,3096373,3301,viestintäjohtaja,Maria,Uunila,F,A,,256012946,50105;50112,Markkinoinnista vastaava;Viestinnästä vastaava
+27121523,5607269376,3096373,2942,projektimyyntipäällikkö,Salla,Savolainen,F,A,,256094514,50103,Myynnistä vastaava
+27121523,6124268955,3096373,2941,myyntijohtaja,Peter,Engstrand,M,A,,256177654,50103,Myynnistä vastaava
+33613057,6134668145,4004093,2011,toimitusjohtaja,Jonna,Toikka-Hannuksela,F,A,2048086,256178880,50101,Toimipaikan ylin johto
+29882203,2508961923,3276039,2011,toimitusjohtaja,Mikko,Ruokojoki,M,A,-10410031,255531991,50101,Toimipaikan ylin johto
+34663232,5722505557,4128911,2011,toimitusjohtaja,Mikko,Punnala,M,A,-10067551,256113048,50101,Toimipaikan ylin johto
+28466929,1634383084,3181427,2011,toimitusjohtaja,Marko,Höynälä,M,A,1449322,254913622,50101,Toimipaikan ylin johto
+31865541,3914930954,3561303,2011,toimitusjohtaja,Jari,Kaitera,M,A,-10020305,255719263,50101,Toimipaikan ylin johto
+32274022,3868193925,3634918,2011,toimitusjohtaja,Jyrki,Kyläheiko,M,A,1182038,255713649,50101,Toimipaikan ylin johto
+28202982,1448244884,3163925,2011,toimitusjohtaja,Pasi,Porramo,M,A,-10825776,254204821,50101,Toimipaikan ylin johto
+28251944,2424775987,3167995,2011,toimitusjohtaja,Stein,Ulve,M,A,-11156101,255521899,50101,Toimipaikan ylin johto
+28251944,4869389071,3167995,2632,production manager,Jaakko,Rajala,M,A,,255937810,50701,Tuotanto
+28251944,4869389082,3167995,3022,customer service manager,Anna-Maija,Vanhatalo,F,A,,255937811,50113,Asiakaspalvelusta vastaava
+28251944,5242865172,3167995,2232,business controller,Anton,Ivanov,M,A,,256015763,50107,Liiketoiminnan kehitys
+28251944,5759299501,3167995,2662,quality assurance manager,Eini,Nieminen,U,A,,256123490,,
+28479914,1685030787,3182232,2011,toimitusjohtaja,Aleksi,Rantonen,M,A,2127054,255070981,50101,Toimipaikan ylin johto
+31497697,3284205598,3506103,2011,toimitusjohtaja,Teemu,Karuluoto,M,A,1670075,255629070,50101,Toimipaikan ylin johto
+31497697,6073132723,3506103,2005,hallituksen puheenjohtaja,Tuomas,Toivonen,M,A,-10240246,256171876,50101,Toimipaikan ylin johto
+32872356,4432778207,3822090,2011,toimitusjohtaja,William,von der Pahlen,M,A,1193606,255840085,50101,Toimipaikan ylin johto
+33175245,4577266671,3874560,2011,toimitusjohtaja,Terho,Kololuoma,M,A,-10893797,255868700,50101,Toimipaikan ylin johto
+28904298,1955863692,3207662,2011,toimitusjohtaja,Ellimaija,Ahonen,F,A,1272083,255448663,50101,Toimipaikan ylin johto
+28904298,5652495085,3207662,2005,hallituksen puheenjohtaja,Tuomas,Taubert,M,A,1907980,256102256,50101,Toimipaikan ylin johto
+27029444,714424522,3089805,2011,toimitusjohtaja,Joni,Lappalainen,M,A,1578919,245578294,50101,Toimipaikan ylin johto
+29251292,2203612824,3235167,2011,toimitusjohtaja,Timo,Pastila,M,A,-11243017,255491102,50101,Toimipaikan ylin johto
+28808781,1864194611,3203169,2011,toimitusjohtaja,Miro,Eriksson,M,A,1254076,255427924,50101,Toimipaikan ylin johto
+28808781,3366370393,3203169,2931,markkinointijohtaja,Kaisa,Karjalainen,U,A,,255637742,50105,Markkinoinnista vastaava
+27864263,5596809768,3145868,2005,hallituksen puheenjohtaja,Antti,Seppä,M,A,-10400948,256091911,50101,Toimipaikan ylin johto
+27864263,5914194070,3145868,2011,toimitusjohtaja,Johanna,Lund,F,A,-10937825,256155216,50101,Toimipaikan ylin johto
+32898417,4355508271,3826966,2005,hallituksen puheenjohtaja,Leevi,Viitanen,M,A,3368854,255822015,50101,Toimipaikan ylin johto
+32898417,4738008428,3826966,2011,toimitusjohtaja,Susanna,Partanen,F,A,1111066,255904294,50101,Toimipaikan ylin johto
+27810812,1191678582,3141325,2011,toimitusjohtaja,Teppo,Huuhtanen,M,A,-10268979,252454554,50101,Toimipaikan ylin johto
+27810812,5619449020,3141325,2005,hallituksen puheenjohtaja,Mirka,Airaksinen,F,A,-11069076,256096346,50101,Toimipaikan ylin johto
+28587798,1745897742,3188946,2011,toimitusjohtaja,Dominique,Jaurola,U,A,2177197,255307118,50101,Toimipaikan ylin johto
+32012794,4180531435,3577681,2011,toimitusjohtaja,Pengfei,Zhang,U,A,,255779123,50101,Toimipaikan ylin johto
+29629072,2429488650,3261971,2005,hallituksen puheenjohtaja,Noora,Nikka,F,A,2462923,255522497,50101,Toimipaikan ylin johto
+29629072,2429488668,3261971,2011,toimitusjohtaja,Teemu,Laasanen,M,A,-11045729,255522498,50101,Toimipaikan ylin johto
+27378484,2053222693,3111935,2011,toimitusjohtaja,Teemu,Kivimäki,M,A,-11176315,255466157,50101,Toimipaikan ylin johto
+27378484,2357688995,3111935,2942,sales manager,Toni,Louhisola,M,A,,255513771,50103,Myynnistä vastaava
+27378484,3728033879,3111935,2272,HR manager,Annika,Helisvaara,F,A,,255696520,50106,Henkilöstö- ja hallintoasioista vastaava
+27378484,6157713922,3111935,3021,chief customer officer,Ilkka,Tieaho,U,A,,256182473,,
+32627502,4157660007,3768379,2005,hallituksen puheenjohtaja,Klaus,Julin,M,A,2213671,255772571,50101,Toimipaikan ylin johto
+28953217,1931321649,3210716,2011,toimitusjohtaja,Maija,Leino,F,A,2250091,255441679,50101,Toimipaikan ylin johto
+34518481,5612466455,4116177,2011,toimitusjohtaja,Tuomo,Riekki,M,A,-11266866,256095231,50101,Toimipaikan ylin johto
+29137713,5130440075,3226759,2011,toimitusjohtaja,Roni-Ilari,Saroniemi,M,A,1380827,255991089,50101,Toimipaikan ylin johto
+29118977,2043006282,3225354,2011,toimitusjohtaja,Joni,Saari,M,A,-11078062,255464297,50101,Toimipaikan ylin johto
+28557572,1724691179,3187065,2005,hallituksen puheenjohtaja,Ville,Laurikari,M,A,1059844,255244362,50101,Toimipaikan ylin johto
+28557572,5831356522,3187065,2942,sales manager,Juhana,Simula,U,A,,256142229,,
+28557572,5831356531,3187065,2942,senior sales manager,Jan,Söderström,M,A,,256142230,50103,Myynnistä vastaava
+28557572,5831356542,3187065,2931,cmo,Heikki,Sivonen,U,A,,256142231,,
+28557572,5880620021,3187065,2942,sales manager,Laura,Pohjola,U,A,,256151008,,
+28557572,5880620032,3187065,2942,senior sales manager,Kai,Ahteela,U,A,,256151009,,
+28557572,5912299650,3187065,2011,toimitusjohtaja,Jussi,Karttila,M,A,-10881348,256155082,50101,Toimipaikan ylin johto
+28557572,6124269636,3187065,2941,head of sales,Niklas,Hakalax,M,A,,256177692,50103,Myynnistä vastaava
+34163895,5383233660,4074293,2011,toimitusjohtaja,Hannu,Verkasalo,M,A,-10965949,256042218,50101,Toimipaikan ylin johto
+34754134,5824229098,4139311,2005,hallituksen puheenjohtaja,Jyrki,Saarinen,M,A,-10023495,256137987,50101,Toimipaikan ylin johto
+34890902,5912299926,4153030,2011,toimitusjohtaja,Pilpo,Schreiner,M,A,-11208113,256155106,50101,Toimipaikan ylin johto
+34890902,5912299937,4153030,2005,hallituksen puheenjohtaja,Ville,Hautala,M,A,1154851,256155107,50101,Toimipaikan ylin johto
+28158096,1403466297,3161292,2011,toimitusjohtaja,Pekka,Mäkelä,M,A,-10462729,254045986,50101,Toimipaikan ylin johto
+28158096,1791639752,3161292,2005,hallituksen puheenjohtaja,Aarne,Sipilä,M,A,-10007222,255415495,50101,Toimipaikan ylin johto
+31121745,2982576458,3353051,2011,toimitusjohtaja,Tuomas,Mäkynen,M,A,-10741668,255597080,50101,Toimipaikan ylin johto
+29011977,1974961304,3214945,2011,toimitusjohtaja,Sakari,Arvela,M,A,1134848,255453393,50101,Toimipaikan ylin johto
+27752114,1186376858,3137442,2005,hallituksen puheenjohtaja,Tuomas,Teinilä,M,A,-10455041,252403536,50101,Toimipaikan ylin johto
+33509591,4846138924,3990209,2011,toimitusjohtaja,Anne,Puukko,F,A,1256694,255932730,50101,Toimipaikan ylin johto
+32992753,5866547246,3843622,2005,hallituksen puheenjohtaja,Torsti,Tenhunen,M,A,-10104280,256147937,50101,Toimipaikan ylin johto
+31244542,3068589533,3372767,2011,toimitusjohtaja,Miika,Anundi,M,A,2025514,255605522,50101,Toimipaikan ylin johto
+33765608,5060577535,4023429,2011,toimitusjohtaja,Eric,da Costa,M,A,-11267921,255977352,50101,Toimipaikan ylin johto
+31395965,3195219482,3491280,2011,toimitusjohtaja,Teemu,Raitaluoto,M,A,2811529,255621453,50101,Toimipaikan ylin johto
+29556563,4388819822,3258492,2011,toimitusjohtaja,Niklas,Kiviluoto,M,A,-11222109,255831867,50101,Toimipaikan ylin johto
+27142578,750941681,3097594,2011,toimitusjohtaja,Sami,Timonen,M,A,1624379,246351453,50101,Toimipaikan ylin johto
+31477514,3284205164,3503435,2011,toimitusjohtaja,Erik,Rosqvist,M,A,-11148407,255629022,50101,Toimipaikan ylin johto
+28673215,1791640206,3194673,2005,hallituksen puheenjohtaja,Mikko-Jussi,Laakso,M,A,-10564310,255415545,50101,Toimipaikan ylin johto
+28673215,1791640215,3194673,2011,toimitusjohtaja,Henri,Muurimaa,M,A,-10732146,255415546,50101,Toimipaikan ylin johto
+29362646,2238974947,3242676,2011,toimitusjohtaja,Meeri,Haataja,F,A,1216791,255496796,50101,Toimipaikan ylin johto
+28180584,1459497293,3162428,2011,toimitusjohtaja,Virpi,Muhonen,F,A,1672833,254247141,50101,Toimipaikan ylin johto
+32789763,4285902019,3801739,2011,toimitusjohtaja,Aleksi,Halsas,M,A,1337936,255804685,50101,Toimipaikan ylin johto
+27660084,1056092133,3129539,2005,hallituksen puheenjohtaja,Jani,Kärkkäinen,M,A,-11111692,251516632,50101,Toimipaikan ylin johto
+27660084,4236466068,3129539,2011,toimitusjohtaja,Petri,Lindholm,M,A,-10778434,255792682,50101,Toimipaikan ylin johto
+31803535,5582424931,3553966,2011,toimitusjohtaja,Jaakko,Kaminen,M,A,-11069118,256089976,50101,Toimipaikan ylin johto
+27490118,921814988,3117254,2011,toimitusjohtaja,Jarkko,Peräaho,M,A,1074166,249971476,50101,Toimipaikan ylin johto
+27490118,3095097145,3117254,2231,talousjohtaja,Markku,Blomberg,M,A,,255608957,50102,Taloudesta vastaava
+27490118,3773085827,3117254,2271,henkilöstöjohtaja,Johanna,Massa,F,A,,255703184,50106;50302,Henkilöstö- ja hallintoasioista vastaava;Koulutuspalvelut
+27490118,4041654647,3117254,2050,työmaapäällikkö,Tapio,Lumijärvi,M,A,,255750597,50701,Tuotanto
+27490118,4041654658,3117254,2050,työmaapäällikkö,Matti,Kaarlela,M,A,,255750598,50701,Tuotanto
+27490118,4041654669,3117254,2050,työmaapäällikkö,Martti,Mikkonen,M,A,,255750599,50701,Tuotanto
+27490118,4041654702,3117254,2050,työmaapäällikkö,Sami,Laurila,M,A,,255750602,50701,Tuotanto
+27490118,4041654713,3117254,2050,työmaapäällikkö,Harri,Taskila,M,A,,255750603,50701,Tuotanto
+27490118,4041654735,3117254,2050,työmaapäällikkö,Ari,Syvänen,M,A,,255750605,50701,Tuotanto
+27490118,4041654746,3117254,2050,työmaapäällikkö,Teemu,Juntunen,M,A,,255750606,50701,Tuotanto
+27490118,4277767144,3117254,2050,työmaapäällikkö,Henri,Konttila,M,A,,255803168,50701,Tuotanto
+27490118,4337357024,3117254,2050,työmaapäällikkö,Christer,Calden,M,A,,255817773,50701,Tuotanto
+27490118,4337357035,3117254,2050,työmaapäällikkö,Conny,Calden,U,A,,255817774,50701,Tuotanto
+27490118,4337357046,3117254,2050,työmaapäällikkö,Anders,Sundvik,M,A,,255817775,50701,Tuotanto
+27490118,4698541144,3117254,2050,työmaapäällikkö,Erkki,Juntunen,M,A,,255896077,50701,Tuotanto
+27490118,4809852905,3117254,2050,työmaapäällikkö,Jarmo,Rönkkö,M,A,,255923194,50701,Tuotanto
+27490118,5230845814,3117254,2050,työmaapäällikkö,Petro,Laurila,M,A,,256012954,50701,Tuotanto
+27490118,5230845825,3117254,2050,työmaapäällikkö,Pekka,Päivänsäde,M,A,,256012955,50701,Tuotanto
+27490118,5230845847,3117254,2232,talouspäällikkö,Leeni,Isotalo,F,A,,256012957,50102,Taloudesta vastaava
+27490118,5759297442,3117254,2050,työmaapäällikkö,Lassi,Kaarlela,M,A,,256123280,50701,Tuotanto
+34390254,5526768507,4098554,2011,toimitusjohtaja,Noora,Kuisma,F,A,3232978,256069880,50101,Toimipaikan ylin johto
+32846297,4317363612,3816527,2005,hallituksen puheenjohtaja,Niko-Petteri,Korvenlaita,M,A,1588665,255812642,50101,Toimipaikan ylin johto
+32846297,4317363621,3816527,2011,toimitusjohtaja,Einar,Makara,M,A,2920406,255812643,50101,Toimipaikan ylin johto
+29136518,2069317797,3226688,2011,toimitusjohtaja,Lasse,Laaksonen,M,A,-11129386,255469457,50101,Toimipaikan ylin johto
+30045461,2637276232,3304564,2011,toimitusjohtaja,Kalle,Kaivola,M,A,-10503336,255553540,50101,Toimipaikan ylin johto
+30045461,2637276241,3304564,2005,hallituksen puheenjohtaja,Samuli,Syvähuoko,M,A,-10166248,255553541,50101,Toimipaikan ylin johto
+29463922,4527366636,3250991,2005,hallituksen puheenjohtaja,Olli,Gestranius,M,A,-10261876,255858029,50101,Toimipaikan ylin johto
+29005067,1972137727,3214127,2005,hallituksen puheenjohtaja,Edvard,Hæggström,M,A,1550321,255452681,50101,Toimipaikan ylin johto
+29005067,1972137736,3214127,2011,toimitusjohtaja,Jokke,Mäki,M,A,-10857079,255452682,50101,Toimipaikan ylin johto
+27702184,1092663707,3133044,2011,toimitusjohtaja,Samu,Saastamoinen,M,A,-10951961,251788050,50101,Toimipaikan ylin johto
+27702184,1092663716,3133044,2005,hallituksen puheenjohtaja,Janne,Haila,M,A,-10848658,251788051,50101,Toimipaikan ylin johto
+31796435,3511334361,3553186,2005,hallituksen puheenjohtaja,Edward,Blomstedt,M,A,-10621680,255655663,50101,Toimipaikan ylin johto
+31796435,3952199765,3553186,2011,toimitusjohtaja,Robert,Blomstedt,M,A,-10981737,255725967,50101,Toimipaikan ylin johto
+33403957,4796616355,3976805,2011,toimitusjohtaja,Maria,Karjula,F,A,3215505,255916405,50101,Toimipaikan ylin johto
+28225826,1957254495,3166436,2011,toimitusjohtaja,Jussi,Loukiainen,M,A,1645650,255448902,50101,Toimipaikan ylin johto
+28225826,1957254505,3166436,2005,hallituksen puheenjohtaja,Henri,Tervapuro,M,A,2036236,255448903,50101,Toimipaikan ylin johto
+27652842,5490226379,3128968,2011,toimitusjohtaja,Olli,Halme,M,A,1072717,256062890,50101,Toimipaikan ylin johto
+31176607,3010297735,3358736,2005,hallituksen puheenjohtaja,Max,Cedercreutz,M,A,1651371,255599982,50101,Toimipaikan ylin johto
+31176607,5254908595,3358736,2011,toimitusjohtaja,Tuomas,Hyytiä,M,A,2739812,256018190,50101,Toimipaikan ylin johto
+28838892,1947062500,3204631,2011,toimitusjohtaja,Joonas,Sipari,M,A,2231777,255446178,50101,Toimipaikan ylin johto
+26880181,714490808,3075488,2011,toimitusjohtaja,Tero,Sarkkinen,M,A,-11129939,245585685,50101,
+27244697,5931906742,3103444,2011,toimitusjohtaja,Jussi,Räisänen,M,A,-10515364,256157288,50101,Toimipaikan ylin johto
+27244697,6087346000,3103444,2942,key account manager,Roni,Lappalainen,M,A,,256174292,50103,Myynnistä vastaava
+27244697,6087346011,3103444,3021,head of customer success,Joanna,Kuortti,F,A,,256174293,50105;50113,Markkinoinnista vastaava;Asiakaspalvelusta vastaava
+27244697,6087346022,3103444,2931,commercial officer,Jukka,Jaakkola,M,A,,256174294,50107,Liiketoiminnan kehitys
+27244697,6099676742,3103444,2942,key account manager,Sami,Nousiainen,M,A,,256175634,50103,Myynnistä vastaava
+27244697,6099676755,3103444,2231,chief financial officer,Kairit,Tahvola,F,A,,256175635,50102,Taloudesta vastaava
+27263089,801791521,3104651,2005,hallituksen puheenjohtaja,Joel,Hujala,M,A,-10407231,248193351,50101,Toimipaikan ylin johto
+27263089,2773487550,3104651,2011,toimitusjohtaja,Dmytro,Zhovtobryukh,M,A,1666544,255574094,50101,Toimipaikan ylin johto
+27801019,4954525174,3140671,2211,kasvujohtaja,Mika,Peuralahti,M,A,,255955697,50106,Henkilöstö- ja hallintoasioista vastaava
+27801019,5242864539,3140671,2621,teknologiajohtaja,Jere,Nieminen,M,A,,256015724,50501,Tietohallinto
+27801019,5285223166,3140671,2011,toimitusjohtaja,Anni,Hyökyvaara,F,A,-11182660,256023913,50101,Toimipaikan ylin johto
+27801019,5717283108,3140671,2231,talousjohtaja,Aleksi,Uski,M,A,,256112356,50102,Taloudesta vastaava
+30877065,2850564574,3328644,2011,toimitusjohtaja,Anssi,Mikola,M,A,-10090652,255583526,50101,Toimipaikan ylin johto
+31539551,4367134983,3511119,2011,toimitusjohtaja,Aaro,Isosaari,M,A,2461310,255824663,50101,Toimipaikan ylin johto
+27619153,1037086900,3126668,2005,hallituksen puheenjohtaja,Teemu,Purmonen,M,A,-10968555,251334685,50101,Toimipaikan ylin johto
+27619153,3902047871,3126668,2011,toimitusjohtaja,Heikki,Vepsäläinen,M,A,1027926,255717369,50101,Toimipaikan ylin johto
+27619153,5759297850,3126668,2942,asiakkuuspäällikkö,Satu,Pirhonen,U,A,,256123325,,
+27619153,6096041472,3126668,3022,asiakaspalvelupäällikkö,Nea,Ruotsalainen,U,A,,256175008,,
+27619153,6096041486,3126668,2932,markkinointi- ja viestintäpäällikkö,Nea,Kolmonen,F,A,,256175009,50105;50112,Markkinoinnista vastaava;Viestinnästä vastaava
+27444779,906770702,3114681,2011,toimitusjohtaja,Janne,Vuokkonen,M,A,-10455116,249756811,50101,Toimipaikan ylin johto
+27444779,906770711,3114681,2005,hallituksen puheenjohtaja,Teemu,Pietarinen,M,A,-11144926,249756812,50101,Toimipaikan ylin johto
+29712597,2462545806,3264405,2011,toimitusjohtaja,Juho,Kastemaa,M,A,1304233,255526921,50101,Toimipaikan ylin johto
+28721264,1860006936,3197524,2011,toimitusjohtaja,Kimmo,Lehtilä,M,A,1777174,255426746,50101,Toimipaikan ylin johto
+29371315,5025010540,3243196,2011,toimitusjohtaja,Siina,Saksi,F,A,-10116214,255970611,50101,Toimipaikan ylin johto
+26881424,713147208,3075733,2011,toimitusjohtaja,Antti,Kolehmainen,M,A,-11027957,245297261,50101,Toimipaikan ylin johto
+27307811,6164873220,3107252,2005,hallituksen puheenjohtaja,Artem,Kirillovskii,M,A,1931186,256183678,50101,Toimipaikan ylin johto
