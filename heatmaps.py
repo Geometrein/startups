@@ -1,3 +1,7 @@
+"""
+This script generates heatmaps from Dealroom's VC funding data.
+"""
+
 import os
 
 import numpy as np
@@ -23,7 +27,7 @@ def plot_heatmap(
     title: str,
     colorscale: str = "Blues",
     transform: str = "log",
-    showscale: bool = False
+    showscale: bool = False,
 ) -> None:
     z_raw = pivot_df.values
     x = pivot_df.columns.tolist()
@@ -69,9 +73,10 @@ def plot_heatmap(
     fig.show()
 
 
-
 if __name__ == "__main__":
-    industry_csv_path = os.path.join(os.getcwd(), "data", "dealroom", "vc_funding_by_industry.csv")
+    industry_csv_path = os.path.join(
+        os.getcwd(), "data", "dealroom", "vc_funding_by_industry.csv"
+    )
     industry_df = pd.read_csv(filepath_or_buffer=industry_csv_path, index_col=0)
     plot_heatmap(
         industry_df,
