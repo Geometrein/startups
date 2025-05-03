@@ -1,5 +1,3 @@
-
-
 import marimo
 
 __generated_with = "0.13.2"
@@ -18,26 +16,15 @@ def _():
 
 
 @app.cell
-def _(os):
-    def list_all_files_and_folders(base_path: str = ".") -> None:
-        for root, dirs, files in os.walk(base_path):
-            level = root.replace(base_path, "").count(os.sep)
-            indent = "  " * level
-            print(f"{indent}{os.path.basename(root)}/")
-            sub_indent = "  " * (level + 1)
-            for f in files:
-                print(f"{sub_indent}{f}")
-
-    list_all_files_and_folders()
-    return
-
-
-@app.cell
 def _(__file__, os, pd):
     BASE_DIR = os.path.dirname(__file__)
 
-    company_info_df = pd.read_csv(os.path.join(BASE_DIR, "data", "company_info", "basic_details.csv"))
-    financial_df = pd.read_csv(os.path.join(BASE_DIR, "data", "company_info", "financial_details.csv"))
+    company_info_df = pd.read_csv(
+        os.path.join(BASE_DIR, "data", "company_info", "basic_details.csv")
+    )
+    financial_df = pd.read_csv(
+        os.path.join(BASE_DIR, "data", "company_info", "financial_details.csv")
+    )
     return company_info_df, financial_df
 
 
