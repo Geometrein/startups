@@ -2,6 +2,8 @@
 
 import os
 import subprocess
+import shutil
+from pathlib import Path
 
 
 def export_html(input_path: str, output_dir: str) -> None:
@@ -17,6 +19,16 @@ def export_html(input_path: str, output_dir: str) -> None:
     ]
     subprocess.run(cmd, check=True)
     print(f"✅ Exported to {output_path}")
+
+def copy_data(output_dir: str) -> None:
+    src_data_path = Path(__file__).parent.parent / "data"
+    dst_data_path = Path(output_dir) / "data"
+
+    if src_data_path.exists():
+        shutil.copytree(src_data_path, dst_data_path, dirs_exist_ok=True)
+        print(f"✅ Copied data folder to {dst_data_path}")
+    else:
+        print("⚠️ No data folder found to copy.")
 
 
 def generate_index(output_dir: str) -> None:
@@ -41,6 +53,7 @@ def generate_index(output_dir: str) -> None:
 
 def main():
     export_html("eda.py", "_site")
+    copy_data("_site")
     generate_index("_site")
 
 
