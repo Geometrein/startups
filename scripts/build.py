@@ -32,23 +32,23 @@ def copy_data(output_dir: str) -> None:
 
 
 def generate_index(output_dir: str) -> None:
-    index_html = """
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>EDA Report</title>
-    <meta http-equiv="refresh" content="0; url=eda.html" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  </head>
-  <body>
-    <p>If you are not redirected automatically, <a href="eda.html">click here</a>.</p>
-  </body>
-</html>
+    index_html = f"""
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <title>EDA Report</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      </head>
+      <body style="font-family: sans-serif; padding: 2rem;">
+        <h1>EDA Report</h1>
+        <a href="eda.html">Open eda.py notebook</a>
+      </body>
+    </html>
     """
     with open(os.path.join(output_dir, "index.html"), "w") as f:
         f.write(index_html.strip())
-    print("✅ index.html with redirect created")
+    print("✅ index.html created")
 
 
 def main():
