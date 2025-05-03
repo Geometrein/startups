@@ -1,3 +1,5 @@
+
+
 import marimo
 
 __generated_with = "0.13.2"
@@ -15,9 +17,11 @@ def _():
 
 
 @app.cell
-def _(pd):
-    company_info_df = pd.read_csv("data/company_info/basic_details.csv")
-    financial_df = pd.read_csv("data/company_info/financial_details.csv")
+def _(__file__, os, pd):
+    BASE_DIR = os.path.dirname(__file__)
+
+    company_info_df = pd.read_csv(os.path.join(BASE_DIR, "data", "company_info", "basic_details.csv"))
+    financial_df = pd.read_csv(os.path.join(BASE_DIR, "data", "company_info", "financial_details.csv"))
     return company_info_df, financial_df
 
 
