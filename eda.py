@@ -8,12 +8,13 @@ app = marimo.App(width="medium")
 
 @app.cell
 def _():
+    import os
     import marimo as mo
     import pandas as pd
     import plotly.express as px
     import plotly.graph_objects as go
 
-    return mo, pd, px
+    return mo, os, pd, px
 
 
 @app.cell
