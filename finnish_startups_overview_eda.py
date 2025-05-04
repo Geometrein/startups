@@ -22,12 +22,12 @@ def _(mo, pd):
         mo.notebook_location() / "data" / "company_info" / "basic_details.csv"
     )
     print(company_data_path)
-    company_info_df = pd.read_csv(company_data_path, compression=None, engine='python')
+    company_info_df = pd.read_csv(company_data_path, compression=None, engine='python', encoding="utf-8")
 
     financials_df_path = str(
         mo.notebook_location() / "data" / "company_info" / "financial_details.csv"
     )
-    financial_df = pd.read_csv(financials_df_path, compression=None, engine='python')
+    financial_df = pd.read_csv(financials_df_path, compression=None, engine='python', encoding="utf-8")
     return company_info_df, financial_df
 
 
