@@ -2,7 +2,7 @@
 This project explores the Finnish startup ecosystem, focusing on the sample of Finnish startups listed on [statup100](https://startup100.net/companies/).
 The goal is to analyze the publicly available data of these startups and gain insights into the startup landscape in Finland.
 
-![Finnish Startups 2025]()
+![Finnish Startups 2025](images/turnover_operating_profit_by_sector.png)
 
 ## Installation
 
