@@ -163,7 +163,7 @@ def extract_extended_decision_persons(data: dict, business_id: str) -> list:
         for person in decision_persons:
             row = {
                 "business_id": business_id,
-                "finder_decision_person_id": person.get("decisionPersonId"),
+                "decision_person_id": person.get("decisionPersonId"),
                 "first_name": person.get("firstName"),
                 "last_name": person.get("lastName"),
                 "full_name": person.get("companyName"),

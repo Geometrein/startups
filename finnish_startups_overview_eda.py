@@ -1,3 +1,5 @@
+
+
 import marimo
 
 __generated_with = "0.13.2"
@@ -16,15 +18,12 @@ def _():
 
 
 @app.cell
-def _(__file__, os, pd):
-    BASE_DIR = os.path.dirname(__file__)
+def _(mo, os, pd):
+    company_data_path = str(os.path.join(mo.notebook_location() , "data", "company_info", "basic_details.csv"))
+    company_info_df = pd.read_csv(filepath_or_buffer=company_data_path)
 
-    company_info_df = pd.read_csv(
-        os.path.join(BASE_DIR, "data", "company_info", "basic_details.csv")
-    )
-    financial_df = pd.read_csv(
-        os.path.join(BASE_DIR, "data", "company_info", "financial_details.csv")
-    )
+    financials_df_path = str(os.path.join(mo.notebook_location(), "data", "company_info", "financial_details.csv"))
+    financial_df = pd.read_csv(filepath_or_buffer=financials_df_path)
     return company_info_df, financial_df
 
 
