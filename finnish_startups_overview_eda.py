@@ -1,3 +1,5 @@
+
+
 import marimo
 
 __generated_with = "0.13.2"
@@ -14,11 +16,14 @@ def _():
     import plotly.graph_objects as go
     from urllib.request import urlopen
 
-    return mo, os, pd, px
+    import folium
+    from folium.plugins import MarkerCluster
+
+    return io, mo, pd, px, urlopen
 
 
 @app.cell
-def _(mo, pd, urlopen, io):
+def _(io, mo, pd, urlopen):
     company_data_path = str(
         mo.notebook_location() / "data" / "company_info" / "basic_details.csv"
     )
@@ -26,13 +31,16 @@ def _(mo, pd, urlopen, io):
         mo.notebook_location() / "data" / "company_info" / "financial_details.csv"
     )
 
-    with urlopen(company_data_path) as response:
-        company_data = response.read().decode("utf-8")
-    company_info_df = pd.read_csv(io.StringIO(company_data))
+    def load_data(path):
+        if path.startswith("http"):
+            with urlopen(path) as response:
+                data = response.read().decode("utf-8")
+                return pd.read_csv(io.StringIO(data))
+        else:
+            return pd.read_csv(path)
 
-    with urlopen(financials_df_path) as response:
-        financials_data = response.read().decode("utf-8")
-    financial_df = pd.read_csv(io.StringIO(financials_data))
+    company_info_df = load_data(company_data_path)
+    financial_df = load_data(financials_df_path)
     return company_info_df, financial_df
 
 
@@ -151,6 +159,37 @@ def _(company_info_df, pd, px):
         return fig
 
     plot_company_locations_map(company_info_df)
+    return
+
+
+@app.cell
+def _(company_info_df, pd):
+    def plot_clustered_company_locations(df: pd.DataFrame):
+        import folium
+        from folium.plugins import MarkerCluster
+        df = df[["business_id", "name", "coordinates"]].dropna()
+        df = df[df["coordinates"].str.contains(",")]
+
+        df["coordinates"] = df["coordinates"].str.replace(r"[() ]", "", regex=True)
+        df[["lat", "lon"]] = df["coordinates"].str.split(",", expand=True)
+        df["lat"] = pd.to_numeric(df["lat"], errors="coerce")
+        df["lon"] = pd.to_numeric(df["lon"], errors="coerce")
+        df = df.dropna(subset=["lat", "lon"])
+
+        m = folium.Map(location=[df["lat"].mean(), df["lon"].mean()], zoom_start=6, tiles="CartoDB positron",
+            control_scale=True)
+        marker_cluster = MarkerCluster().add_to(m)
+
+        for _, row in df.iterrows():
+            popup = f"<b>{row['name']}</b><br>ID: {row['business_id']}"
+            folium.Marker(
+                location=[row["lat"], row["lon"]],
+                popup=popup
+            ).add_to(marker_cluster)
+
+        return m
+
+    plot_clustered_company_locations(company_info_df)
     return
 
 
