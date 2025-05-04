@@ -19,11 +19,11 @@ def _():
 
 @app.cell
 def _(mo, os, pd):
-    company_data_path = str(os.path.join(mo.notebook_location() , "data", "company_info", "basic_details.csv"))
-    company_info_df = pd.read_csv(filepath_or_buffer=company_data_path, compression=None)
+    company_data_path = os.path.join(mo.notebook_location() , "data", "company_info", "basic_details.csv")
+    company_info_df = pd.read_csv(company_data_path, compression=None)
 
-    financials_df_path = str(os.path.join(mo.notebook_location(), "data", "company_info", "financial_details.csv"))
-    financial_df = pd.read_csv(filepath_or_buffer=financials_df_path, compression=None)
+    financials_df_path = os.path.join(mo.notebook_location(), "data", "company_info", "financial_details.csv")
+    financial_df = pd.read_csv(financials_df_path, compression=None)
     return company_info_df, financial_df
 
 
