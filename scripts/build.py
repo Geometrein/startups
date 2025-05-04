@@ -95,7 +95,8 @@ def main() -> None:
 
     root = Path(".")
     all_notebooks: List[str] = [
-        str(path) for path in root.glob("*.py")
+        str(path)
+        for path in root.glob("*.py")
         if path.name != "scripts/build.py" and is_marimo_notebook(path)
     ]
 
@@ -108,13 +109,15 @@ def main() -> None:
 
     generate_index(all_notebooks, args.output_dir)
 
-    data_src = Path("data")
-    data_dst = Path(args.output_dir) / "data"
+    data_src = Path("data/company_info")
+    data_dst = Path(args.output_dir) / "data" / "company_info"
 
     if data_src.exists():
         print(f"Copying data/ to {data_dst}")
         import shutil
+
         shutil.copytree(data_src, data_dst, dirs_exist_ok=True)
+
 
 if __name__ == "__main__":
     main()
