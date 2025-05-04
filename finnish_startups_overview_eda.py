@@ -11,22 +11,23 @@ def _():
     import pandas as pd
     import plotly.express as px
     import plotly.graph_objects as go
+    from io import StringIO
 
     return mo, os, pd, px
 
 
 @app.cell
-def _(mo, os, pd):
+def _(mo, pd):
     company_data_path = str(
         mo.notebook_location() / "data" / "company_info" / "basic_details.csv"
     )
     print(company_data_path)
-    company_info_df = pd.read_csv(company_data_path, compression=None)
+    company_info_df = pd.read_csv(company_data_path, compression=None, engine='python')
 
     financials_df_path = str(
         mo.notebook_location() / "data" / "company_info" / "financial_details.csv"
     )
-    financial_df = pd.read_csv(financials_df_path, compression=None)
+    financial_df = pd.read_csv(financials_df_path, compression=None, engine='python')
     return company_info_df, financial_df
 
 
