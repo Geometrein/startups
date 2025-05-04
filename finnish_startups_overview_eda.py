@@ -7,12 +7,12 @@ app = marimo.App(width="medium")
 @app.cell
 def _():
     import os
+    import io
     import marimo as mo
     import pandas as pd
     import plotly.express as px
     import plotly.graph_objects as go
     from urllib.request import urlopen
-    import io
 
     return mo, os, pd, px
 
@@ -25,25 +25,14 @@ def _(mo, pd, urlopen, io):
     financials_df_path = str(
         mo.notebook_location() / "data" / "company_info" / "financial_details.csv"
     )
-    try:
-        # Read the company data
-        with urlopen(company_data_path) as response:
-            company_data = response.read().decode('utf-8')
-        company_info_df = pd.read_csv(io.StringIO(company_data))
 
-        # Read the financials data
-        with urlopen(financials_df_path) as response:
-            financials_data = response.read().decode('utf-8')
-        financial_df = pd.read_csv(io.StringIO(financials_data))
+    with urlopen(company_data_path) as response:
+        company_data = response.read().decode("utf-8")
+    company_info_df = pd.read_csv(io.StringIO(company_data))
 
-        # Display success message
-        print(f"Successfully loaded data!")
-        print(f"Company info shape: {company_info_df.shape}")
-        print(f"Financial info shape: {financial_df.shape}")
-
-    except Exception as e:
-        print(f"Error loading data: {str(e)}")
-
+    with urlopen(financials_df_path) as response:
+        financials_data = response.read().decode("utf-8")
+    financial_df = pd.read_csv(io.StringIO(financials_data))
     return company_info_df, financial_df
 
 
@@ -129,7 +118,7 @@ def _(company_info_df, pd, px):
             margin=dict(l=150, r=50, t=80, b=50),
         )
 
-        fig.show()
+        return fig
 
     plot_business_by_city(df=company_info_df, column="city", top_n=15)
     return
@@ -208,7 +197,7 @@ def _(company_info_df, pd, px):
             margin=dict(l=150, r=50, t=80, b=50),
         )
 
-        fig.show()
+        return fig
 
     plot_main_business_categories(
         df=company_info_df, column="main_line_of_business_category", top_n=15
@@ -276,7 +265,7 @@ def _(company_info_df, financial_df, pd, px):
             margin=dict(l=150, r=50, t=80, b=50),
         )
 
-        fig.show()
+        return fig
 
     plot_business_categories_by_employees(financial_df, company_info_df, 15)
     return
@@ -319,7 +308,7 @@ def _(financial_df, pd, px):
             margin=dict(l=150, r=50, t=80, b=50),
         )
 
-        fig.show()
+        return fig
 
     plot_financial_data_years(financial_df)
     return
@@ -360,7 +349,7 @@ def _(company_info_df, financial_df, pd, px):
             transition={"duration": 100, "easing": "cubic-in-out"},
         )
 
-        fig.show()
+        return fig
 
     plot_turnover_vs_profit_by_year(financial_df, company_info_df)
     return
@@ -394,7 +383,7 @@ def _(merged_df, pd, px):
             margin=dict(l=120, r=20, t=50, b=50), xaxis_type="log", showlegend=False
         )
 
-        fig.show()
+        return fig
 
     plot_turnover_distribution_by_city(input_df=merged_df, year=2023)
     return
@@ -429,7 +418,7 @@ def _(financial_df, pd, px):
             title="Median Financial Metrics Over Time",
             labels={"value": "EUR"},
         )
-        fig.show()
+        return fig
 
     plot_median_financials_over_time(financial_df)
     return
@@ -465,7 +454,7 @@ def _(financial_df, pd, px):
             labels={"value": "Ratio Value", "year": "Year", "metric": "Metric"},
         )
         fig.update_layout(yaxis_title="Median Ratio Value")
-        fig.show()
+        return fig
 
     plot_median_ratios_over_time(financial_df)
     return
@@ -631,7 +620,7 @@ def _(pd, px, top_df):
             margin=dict(l=60, r=60, t=60, b=60), xaxis_type="log", yaxis_type="log"
         )
 
-        fig.show()
+        return fig
 
     plot_turnover_vs_profit_scatter(top_df)
     return
@@ -663,7 +652,7 @@ def _(pd, px, top_df):
 
         fig.update_layout(margin=dict(l=150, r=50, t=60, b=40), xaxis_type="log")
 
-        fig.show()
+        return fig
 
     plot_turnover_and_profit_bars(top_df, top_n=25)
     return
