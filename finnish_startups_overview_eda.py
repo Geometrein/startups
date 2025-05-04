@@ -1,5 +1,3 @@
-
-
 import marimo
 
 __generated_with = "0.13.2"
@@ -31,6 +29,7 @@ def _():
 
     import folium
     from folium.plugins import MarkerCluster
+
     return MarkerCluster, folium, io, mo, pd, px, urlopen
 
 
@@ -102,7 +101,9 @@ def _(company_info_df):
 
 @app.cell
 def _(mo):
-    mo.md(r"""The initial company data was later enriched with financial information by matching business IDs to corresponding financial reports. This dataframe includes financial data only for companies with publicly available reports.""")
+    mo.md(
+        r"""The initial company data was later enriched with financial information by matching business IDs to corresponding financial reports. This dataframe includes financial data only for companies with publicly available reports."""
+    )
     return
 
 
@@ -210,7 +211,9 @@ def _(company_info_df, pd, px):
 
 @app.cell
 def _(mo):
-    mo.md(r"""Interestingly, there are no startups located above the Arctic Circle. The closest is Overpower, a sim racing startup based near the Arctic Circle.""")
+    mo.md(
+        r"""Interestingly, there are no startups located above the Arctic Circle. The closest is Overpower, a sim racing startup based near the Arctic Circle."""
+    )
     return
 
 
@@ -226,16 +229,19 @@ def _(MarkerCluster, company_info_df, folium, pd):
         df["lon"] = pd.to_numeric(df["lon"], errors="coerce")
         df = df.dropna(subset=["lat", "lon"])
 
-        m = folium.Map(location=[df["lat"].mean(), df["lon"].mean()], zoom_start=6, tiles="CartoDB positron",
-            control_scale=True)
+        m = folium.Map(
+            location=[df["lat"].mean(), df["lon"].mean()],
+            zoom_start=6,
+            tiles="CartoDB positron",
+            control_scale=True,
+        )
         marker_cluster = MarkerCluster().add_to(m)
 
         for _, row in df.iterrows():
             popup = f"<b>{row['name']}</b><br>ID: {row['business_id']}"
-            folium.Marker(
-                location=[row["lat"], row["lon"]],
-                popup=popup
-            ).add_to(marker_cluster)
+            folium.Marker(location=[row["lat"], row["lon"]], popup=popup).add_to(
+                marker_cluster
+            )
 
         return m
 
@@ -245,7 +251,9 @@ def _(MarkerCluster, company_info_df, folium, pd):
 
 @app.cell
 def _(mo):
-    mo.md(r"""The highest concentration of startups is found at [Maria 01](https://maria.io/), the leading startup incubator in the Nordics, with over 40 startups represented in our sample.""")
+    mo.md(
+        r"""The highest concentration of startups is found at [Maria 01](https://maria.io/), the leading startup incubator in the Nordics, with over 40 startups represented in our sample."""
+    )
     return
 
 
@@ -452,7 +460,9 @@ def _(financial_df, pd, px):
 
 @app.cell
 def _(mo):
-    mo.md(r"""Since public financial records become available only after the financial year has concluded, our dataset exhibits a noticeable lag. As a result, it captures the period between **2019 and 2023** most reliably, while data for earlier years is sparse and **2024 remains incomplete**.""")
+    mo.md(
+        r"""Since public financial records become available only after the financial year has concluded, our dataset exhibits a noticeable lag. As a result, it captures the period between **2019 and 2023** most reliably, while data for earlier years is sparse and **2024 remains incomplete**."""
+    )
     return
 
 
@@ -673,12 +683,14 @@ def _(merged_df, pd, px):
 
         bins = [0, 5, 10, 20, 50, 100, 500, float("inf")]
         labels = ["1–5", "6–10", "11–20", "21–50", "51–100", "101–500", "500+"]
-    
+
         df["employee_group"] = pd.cut(
             df["num_employees"], bins=bins, labels=labels, right=True
         )
 
-        df["employee_group"] = pd.Categorical(df["employee_group"], categories=labels, ordered=True)
+        df["employee_group"] = pd.Categorical(
+            df["employee_group"], categories=labels, ordered=True
+        )
 
         fig = px.box(
             df,
@@ -690,7 +702,7 @@ def _(merged_df, pd, px):
                 "turnover_per_employee": "€ / Employee",
                 "employee_group": "Employee Group",
             },
-            category_orders={"employee_group": labels}
+            category_orders={"employee_group": labels},
         )
         fig.update_layout(
             xaxis_title="Employee Group",
