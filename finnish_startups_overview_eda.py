@@ -7,6 +7,19 @@ app = marimo.App(width="medium")
 
 
 @app.cell
+def _(mo):
+    mo.md(
+        r"""
+        # Finnish Startup Ecosystem Analysis
+
+        This project explores the Finnish startup ecosystem, focusing on the sample of Finnish startups listed on [statup100](https://startup100.net/companies/).
+        The goal is to analyze the publicly available data of these startups and gain insights into the startup landscape in Finland.
+        """
+    )
+    return
+
+
+@app.cell
 def _():
     import os
     import io
@@ -18,8 +31,7 @@ def _():
 
     import folium
     from folium.plugins import MarkerCluster
-
-    return io, mo, pd, px, urlopen
+    return MarkerCluster, folium, io, mo, pd, px, urlopen
 
 
 @app.cell
@@ -70,8 +82,27 @@ def _(company_info_df, financial_df, pd):
 
 
 @app.cell
+def _(mo):
+    mo.md(
+        r"""
+        ## Data Overview
+
+        The original sample of the startups was fetched from [startup100](https://startup100.net/).
+        This dataframe contains the basic company information including business id, address, business type and main line of business. The sample has 757 unique companies.
+        """
+    )
+    return
+
+
+@app.cell
 def _(company_info_df):
     company_info_df
+    return
+
+
+@app.cell
+def _(mo):
+    mo.md(r"""The initial company data was later enriched with financial information by matching business IDs to corresponding financial reports. This dataframe includes financial data only for companies with publicly available reports.""")
     return
 
 
@@ -133,6 +164,21 @@ def _(company_info_df, pd, px):
 
 
 @app.cell
+def _(mo):
+    mo.md(
+        r"""
+        #### Key Takeaways: Spatial Distribution of Startups
+        - Over **62.4%** of all startups are located in the **Helsinki Metropolitan Area** (Helsinki, Espoo, and Vantaa), emphasizing the region’s importance as the **core of Finland's startup economy**.
+        - **Tampere**, while smaller, stands out as the **leading non-metropolitan startup city**, accounting for **7.4%** of all startups.
+        - Other cities such as **Turku**, **Oulu**, and **Jyväskylä** also show startup activity, but at much smaller scales.
+        - The data highlights the **centralization of startup activity** around major urban areas, where access to **talent, funding, infrastructure, and community** is more concentrated.
+
+        """
+    )
+    return
+
+
+@app.cell
 def _(company_info_df, pd, px):
     def plot_company_locations_map(df: pd.DataFrame):
         df = df[["business_id", "name", "coordinates"]].dropna()
@@ -163,10 +209,14 @@ def _(company_info_df, pd, px):
 
 
 @app.cell
-def _(company_info_df, pd):
+def _(mo):
+    mo.md(r"""Interestingly, there are no startups located above the Arctic Circle. The closest is Overpower, a sim racing startup based near the Arctic Circle.""")
+    return
+
+
+@app.cell
+def _(MarkerCluster, company_info_df, folium, pd):
     def plot_clustered_company_locations(df: pd.DataFrame):
-        import folium
-        from folium.plugins import MarkerCluster
         df = df[["business_id", "name", "coordinates"]].dropna()
         df = df[df["coordinates"].str.contains(",")]
 
@@ -190,6 +240,12 @@ def _(company_info_df, pd):
         return m
 
     plot_clustered_company_locations(company_info_df)
+    return
+
+
+@app.cell
+def _(mo):
+    mo.md(r"""The highest concentration of startups is found at [Maria 01](https://maria.io/), the leading startup incubator in the Nordics, with over 40 startups represented in our sample.""")
     return
 
 
@@ -245,9 +301,36 @@ def _(company_info_df, pd, px):
 
 
 @app.cell
+def _(mo):
+    mo.md(
+        r"""
+        #### Key Takeaways:
+
+        - **IT Consulting and IT Services** dominate the startup landscape, representing **over 56%** of all companies in the dataset.
+        - **Product Development, Research, and Design Services** is the second-largest category but accounts for **less than 5%**, showing a sharp drop after IT.
+        - The distribution reveals a **strong concentration in IT and digital services**, mirroring the current trends in the global startup ecosystem.
+        """
+    )
+    return
+
+
+@app.cell
 def _(company_info_df, plot_main_business_categories):
     plot_main_business_categories(
         df=company_info_df, column="main_line_of_business", top_n=15
+    )
+    return
+
+
+@app.cell
+def _(mo):
+    mo.md(
+        r"""
+        #### Key Takeaways:
+        - **Software Design and Development** is the dominant category, accounting for **over 46%** of all startups in the dataset.
+        - **Computer Hardware and Software Consulting** and **Engineering Research and Development** follow, but each represents only a **small share (~3%)**.
+        - The data shows a **clear skew toward software-centric startups**.
+        """
     )
     return
 
@@ -312,6 +395,20 @@ def _(company_info_df, financial_df, pd, px):
 
 @app.cell
 def _(mo):
+    mo.md(
+        r"""
+        #### Key Takeaways:
+        - **IT Consulting and IT Services** employ by far the most people, with **over 12,000 employees**, reflecting both high concentration and operational scale in the sector.
+        - **Mobile Phones and Accessories** is the second-largest employer, though significantly smaller, with under **2,000 employees**.
+        - Some unexpected categories like **Cleaning Services** and **Sand, Gravel, Stone, and Other Aggregates** also appear, highlighting on-the-ground operational needs and scaling specificity in these secotrs.
+        - Overall, the chart underscores the **dominance of IT-related employment**, while most other sectors show a more limited workforce footprint.
+        """
+    )
+    return
+
+
+@app.cell
+def _(mo):
     mo.md(r"""## Financials""")
     return
 
@@ -350,6 +447,12 @@ def _(financial_df, pd, px):
         return fig
 
     plot_financial_data_years(financial_df)
+    return
+
+
+@app.cell
+def _(mo):
+    mo.md(r"""Since public financial records become available only after the financial year has concluded, our dataset exhibits a noticeable lag. As a result, it captures the period between **2019 and 2023** most reliably, while data for earlier years is sparse and **2024 remains incomplete**.""")
     return
 
 
@@ -395,6 +498,22 @@ def _(company_info_df, financial_df, pd, px):
 
 
 @app.cell
+def _(mo):
+    mo.md(
+        r"""
+        #### Key Takeaways:
+
+        - The scatter plot shows a **positive correlation** between turnover and operating profit across all years, particularly for companies with higher revenues.  
+          *(Note: The log scale excludes negative values, so loss-making companies are not visible in the chart.)*
+        - Most startups are clustered in the **low-profit, low-turnover** range, consistent with early-stage or small-scale operations.
+        - A few outliers stand out with **both high profitability and turnover**, likely reflecting more established or fast-growing ventures.
+        - The **logarithmic axes** emphasize the broad spectrum of financial performance, from micro-startups to scale-ups.
+        """
+    )
+    return
+
+
+@app.cell
 def _(merged_df, pd, px):
     def plot_turnover_distribution_by_city(
         input_df: pd.DataFrame, year: int = 2023, min_city_count: int = 10
@@ -425,6 +544,21 @@ def _(merged_df, pd, px):
         return fig
 
     plot_turnover_distribution_by_city(input_df=merged_df, year=2023)
+    return
+
+
+@app.cell
+def _(mo):
+    mo.md(
+        r"""
+        #### Key Takeaways: Turnover Distribution by City (2023)
+
+        - **The Helsinki Metropolitan Area** clearly dominates in terms of financial performance. With Helsinki and Espoo showing the widest turnover ranges and most high-value outliers, it’s evident that capital, scale, and investor attention continue to concentrate around the capital region. These cities act as financial anchors. HMA also shows the widest spread in turnover with numerous high-value outliers, including companies reaching above **100M€**, indicating the presence of major players.
+        - **Tampere**, **Turku**, and **Oulu** display relatively balanced distributions, though their upper turnover bounds are lower compared to the capital region.
+        - **Jyväskylä** shows the narrowest distribution and the lowest median, with fewer high-performing companies.
+        - The use of a **logarithmic scale** emphasizes the skewed nature of startup turnover—most are small, but a few drive a disproportionately large share of economic value.
+        """
+    )
     return
 
 
@@ -460,6 +594,21 @@ def _(financial_df, pd, px):
         return fig
 
     plot_median_financials_over_time(financial_df)
+    return
+
+
+@app.cell
+def _(mo):
+    mo.md(
+        r"""
+        #### Key Takeaways:
+        - **Median turnover** saw a sharp rise starting in **2017**, peaking around **2021–2023** at nearly **€191K**, before dipping in **2024**—likely due to partial data availability.
+        - Despite growing turnover, both **median operating profit** and **net income** have remained **consistently negative** since **2018**, suggesting ongoing profitability challenges among startups.
+        - The **lowest profitability point** occurred in **2023**, with median net income dropping below **–€60K**, highlighting increased burn or cost pressure.
+        - The **uptick in 2024** across all metrics may signal a rebound, though it likely reflects **early filers or a biased subset** of the year’s data.
+        - Overall, the trend illustrates a **scaling revenue base**, but persistent difficulty in achieving profitability for the median startup.
+        """
+    )
     return
 
 
@@ -503,28 +652,12 @@ def _(financial_df, pd, px):
 def _(mo):
     mo.md(
         r"""
-        #### Quick Ratio
-        Stays mostly in the 1.3–2.0 range, indicating:
+        #### Key Takeaways:
 
-        On average, startups have just enough or slightly more liquid assets than current liabilities.
-
-        A dip in 2017 suggests tighter liquidity or increased short-term liabilities.
-
-        Recovery post-2018 → possibly due to increased funding or improved cash flow management.
-
-        #### Current Ratio
-        Follows a very similar pattern to quick ratio, but slightly higher as it includes inventory.
-
-        The spike in 2020 could reflect pandemic-related uncertanity induced cash hoarding.
-
-        Flattening after 2021 migth suggests a return to steady-state operating conditions.
-
-        #### Solvency Ratio
-        - Remains consistently low (0.2–0.35) across all years.
-
-        - Indicates that startups are heavily leveraged or equity-light, which is typical for early-stage ventures.
-
-        - Little variation suggests persistent structural reliance on short-term capital or external funding.
+        - **Liquidity ratios** (quick and current) have generally remained above **1.0**, indicating that the median startup is able to cover short-term liabilities with current assets.
+        - The peak in **2020**, with median ratios approaching **2.0**, reflects especially strong liquidity—likely due to **COVID-related uncertainty**, which may have driven companies to hoard cash.
+        - The **solvency ratio** has remained consistently low—mostly **below 0.3**—highlighting that many startups are **equity-weak and debt-reliant**, a common trait in early-stage ventures.
+        - The combination of **strong liquidity but weak solvency** suggests that while startups manage working capital effectively, they often lack long-term financial independence—**indicative of a strong reliance on venture capital**.
         """
     )
     return
@@ -540,20 +673,24 @@ def _(merged_df, pd, px):
 
         bins = [0, 5, 10, 20, 50, 100, 500, float("inf")]
         labels = ["1–5", "6–10", "11–20", "21–50", "51–100", "101–500", "500+"]
+    
         df["employee_group"] = pd.cut(
             df["num_employees"], bins=bins, labels=labels, right=True
         )
+
+        df["employee_group"] = pd.Categorical(df["employee_group"], categories=labels, ordered=True)
 
         fig = px.box(
             df,
             x="employee_group",
             y="turnover_per_employee",
             points="outliers",
-            title="Turnover per Emploee Distribution by Company Size",
+            title="Turnover per Employee Distribution by Company Size",
             labels={
                 "turnover_per_employee": "€ / Employee",
                 "employee_group": "Employee Group",
             },
+            category_orders={"employee_group": labels}
         )
         fig.update_layout(
             xaxis_title="Employee Group",
@@ -563,6 +700,22 @@ def _(merged_df, pd, px):
         return fig
 
     plot_turnover_per_employee_grouped(merged_df)
+    return
+
+
+@app.cell
+def _(mo):
+    mo.md(
+        r"""
+        Key Takeaways:
+
+        - **Turnover per employee increases** with company size up to the **101–500 employee group**, which shows the **highest median productivity per employee**.
+        - The **500+ group** has a slightly lower median than 101–500, indicating possible **efficiency plateauing** or increased structural overhead in the largest firms.
+        - Small companies (**1–50 employees**) display **high variance**, with some startups achieving extremely high productivity and others generating very little revenue per employee.
+        - The **21–50** and **51–100** ranges show consistent improvement in median turnover per employee, suggesting that growing companies often gain efficiency as they scale.
+        - The **log scale** reveals the full spread, from micro firms with single-digit revenue per head to outliers exceeding **€10M per employee**, likely driven by IP-heavy or SaaS models.
+        """
+    )
     return
 
 
@@ -587,7 +740,7 @@ def _(merged_df, px):
             hover_name="name",
             log_x=True,
             log_y=True,
-            title="Turnover vs Operating Profit by Sector (log scale)",
+            title=f"Turnover vs Operating Profit by Sector ({year})",
             labels={
                 "turnover": "Turnover (€)",
                 "operating_profit": "Operating Profit (€)",
@@ -600,6 +753,22 @@ def _(merged_df, px):
         return fig
 
     plot_turnover_vs_profit(merged_df, year=2023)
+    return
+
+
+@app.cell
+def _(mo):
+    mo.md(
+        r"""
+        #### Key Takeaways:
+
+        - There is a **strong overall positive correlation** between turnover and operating profit across sectors, particularly evident among companies with higher revenues. *(Note: The log scale excludes negative values, so loss-making companies are not visible in the chart.)*
+        - Sectors such as **IT Consulting & Services**, **Product Development**, and **Finance** host some of the **largest and most profitable companies**, with multiple firms exceeding **€1M in operating profit**.
+        - **Applications and Software** companies are clustered in the **mid-turnover range**, but many show **healthy margins**, with several above the **€100k profit line**.
+        - **Bubble sizes** represent **employee counts**, suggesting that higher turnover and profit are often—but not always—associated with larger teams.
+        - The **logarithmic scale** reveals the vast spread in financial performance, from startups generating under **€10k in turnover** to established firms nearing **€1B**.
+        """
+    )
     return
 
 
@@ -666,6 +835,24 @@ def _(pd, px, top_df):
 
 
 @app.cell
+def _(mo):
+    mo.md(
+        r"""
+        #### Key Takeaways:
+
+        - This chart highlights the **top-performing startups** (above the 80th percentile) in terms of **turnover and operating profit**, giving insight into Finland’s most successful scale-ups.
+        - **HMD Global Oy** stands out dramatically with **€500M+ turnover** and multi-million euro profits—an outlier in both scale and profitability.
+        - **Redhill Games Oy** and **Sensofusion Oy** demonstrate exceptionally high profitability relative to turnover, indicating **high-margin business models**.
+        - Companies like **ResQ Club Oy** and **Gobybike Finland Oy** show a **strong balance between revenue and profitability**, reflecting Finnish consumers' increasing **preference for sustainable and responsible services**—from food waste reduction to eco-friendly commuting.
+        - **Kamrock Oy**, while having high turnover, shows **low operating profit**, hinting at thin margins or high fixed costs. Which makes sense for an industrial company specialising in aggregates crushing and processing.
+        - Several high-turnover companies such as **Sortter Oy** and **Treamer Oy** fall lower on the profit scale, underlining the importance of not just growth but also **operational efficiency**.
+        - This filtered view reveals a **clear cluster of high-performing, many already operating in the **€5–50M turnover range** with healthy profits.
+        """
+    )
+    return
+
+
+@app.cell
 def _(pd, px, top_df):
     def plot_turnover_and_profit_bars(top_df: pd.DataFrame, top_n) -> None:
         df = top_df[["name", "turnover", "operating_profit"]].copy()
@@ -698,7 +885,17 @@ def _(pd, px, top_df):
 
 
 @app.cell
-def _():
+def _(mo):
+    mo.md(
+        r"""
+        #### Key Takeaways:
+
+        - **HMD Global Oy** dominates the chart with a **massive lead in turnover** and one of the **highest profit figures**, standing far apart from the rest of the sample.
+        - Most top companies exhibit **healthy profitability relative to their turnover**, with **Sensofusion Oy**, **Redhill Games Oy**, and **Youpret Oy** showing particularly strong **profit margins**.
+        - Companies like **Vertaa Ensin Suomi Oy**, **Sortter Oy**, and **Kamrock Oy** show relatively **low profitability** despite sizable turnover, indicating **thin margins** or **heavy cost structures**.
+        - **ResQ Club Oy**, **Gobybike Finland Oy**, and **Smartum Oy** present a **strong balance between revenue and operating profit**, reflecting both **sustainability-driven consumer demand** and the **employee benefit culture** prevalent in Finland.
+        """
+    )
     return
 
 
