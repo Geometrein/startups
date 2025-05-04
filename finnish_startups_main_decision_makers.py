@@ -12,6 +12,7 @@ def _():
     import matplotlib.pyplot as plt
     import plotly.graph_objects as go
     from collections import Counter
+    from urllib.request import urlopen
 
     return Counter, go, mo, nx, pd
 
