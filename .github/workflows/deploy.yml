@@ -26,9 +26,9 @@ jobs:
         with:
           python-version: 3.12
 
-      - name: 📦 Install dependencies
+      - name: 📦 Install requirements
         run: |
-          uv pip install marimo
+          uv pip install -r requirements.txt
 
       - name: 🛠️ Export notebooks
         run: |
