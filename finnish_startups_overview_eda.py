@@ -23,12 +23,12 @@ def _(mo):
 def _():
     import os
     import io
+
     import marimo as mo
     import pandas as pd
     import plotly.express as px
     import plotly.graph_objects as go
     from urllib.request import urlopen
-
     import folium
     from folium.plugins import MarkerCluster
 

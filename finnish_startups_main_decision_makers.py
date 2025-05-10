@@ -1,3 +1,5 @@
+
+
 import marimo
 
 __generated_with = "0.13.2"
@@ -48,6 +50,12 @@ def _(main_decision_makers_df):
 
 
 @app.cell
+def _(main_decision_makers_df):
+    main_decision_makers_df
+    return
+
+
+@app.cell
 def _(go, main_decision_makers_df, nx, pd):
     def build_graph_from_df(df: pd.DataFrame) -> nx.Graph:
         df = df[
@@ -79,6 +87,7 @@ def _(go, main_decision_makers_df, nx, pd):
             G.nodes[node]["label"] = label_map.get(node, str(node))
         return G
 
+
     def filter_graph(G: nx.Graph, min_degree: int = 1, min_weight: int = 1) -> nx.Graph:
         Gf = G.copy()
         for u, v, d in list(Gf.edges(data=True)):
@@ -87,6 +96,7 @@ def _(go, main_decision_makers_df, nx, pd):
         low_degree_nodes = [n for n, d in Gf.degree() if d < min_degree]
         Gf.remove_nodes_from(low_degree_nodes)
         return Gf
+
 
     def graph_to_plotly(G: nx.Graph) -> go.Figure:
         pos = nx.spring_layout(G, seed=42)
@@ -134,6 +144,7 @@ def _(go, main_decision_makers_df, nx, pd):
             showlegend=False, margin=dict(l=0, r=0, t=0, b=0), hovermode="closest"
         )
         return fig
+
 
     def visualize_decision_graph(
         df: pd.DataFrame, min_degree: int = 1, min_weight: int = 1
