@@ -105,7 +105,7 @@ def main() -> None:
         return
 
     for nb in all_notebooks:
-        export_html_wasm(nb, args.output_dir, as_app=False)
+        export_html_wasm(nb, args.output_dir, as_app=True)
 
     generate_index(all_notebooks, args.output_dir)
 

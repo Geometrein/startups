@@ -6,15 +6,15 @@ app = marimo.App(width="medium")
 
 @app.cell
 def _():
+    import io
     import marimo as mo
     import pandas as pd
     import networkx as nx
-    import matplotlib.pyplot as plt
     import plotly.graph_objects as go
     from collections import Counter
     from urllib.request import urlopen
 
-    return Counter, go, mo, nx, pd
+    return Counter, go, io, mo, nx, pd, urlopen
 
 
 @app.cell
@@ -108,7 +108,7 @@ def _(go, main_decision_makers_df, nx, pd):
         edge_trace = go.Scatter(
             x=edge_x,
             y=edge_y,
-            line=dict(width=1, color="gray"),
+            line=dict(width=1, color="lightgray"),
             hoverinfo="none",
             mode="lines",
         )

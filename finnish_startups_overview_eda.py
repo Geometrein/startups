@@ -1,3 +1,5 @@
+
+
 import marimo
 
 __generated_with = "0.13.2"
@@ -101,9 +103,7 @@ def _(company_info_df):
 
 @app.cell
 def _(mo):
-    mo.md(
-        r"""The initial company data was later enriched with financial information by matching business IDs to corresponding financial reports. This dataframe includes financial data only for companies with publicly available reports."""
-    )
+    mo.md(r"""The initial company data was later enriched with financial information by matching business IDs to corresponding financial reports. This dataframe includes financial data only for companies with publicly available reports.""")
     return
 
 
@@ -173,7 +173,6 @@ def _(mo):
         - **Tampere**, while smaller, stands out as the **leading non-metropolitan startup city**, accounting for **7.4%** of all startups.
         - Other cities such as **Turku**, **Oulu**, and **Jyväskylä** also show startup activity, but at much smaller scales.
         - The data highlights the **centralization of startup activity** around major urban areas, where access to **talent, funding, infrastructure, and community** is more concentrated.
-
         """
     )
     return
@@ -211,9 +210,7 @@ def _(company_info_df, pd, px):
 
 @app.cell
 def _(mo):
-    mo.md(
-        r"""Interestingly, there are no startups located above the Arctic Circle. The closest is Overpower, a sim racing startup based near the Arctic Circle."""
-    )
+    mo.md(r"""Interestingly, there are no startups located above the Arctic Circle. The closest is Overpower, a sim racing startup based near the Arctic Circle.""")
     return
 
 
@@ -251,9 +248,7 @@ def _(MarkerCluster, company_info_df, folium, pd):
 
 @app.cell
 def _(mo):
-    mo.md(
-        r"""The highest concentration of startups is found at [Maria 01](https://maria.io/), the leading startup incubator in the Nordics, with over 40 startups represented in our sample."""
-    )
+    mo.md(r"""The highest concentration of startups is found at [Maria 01](https://maria.io/), the leading startup incubator in the Nordics, with over 40 startups represented in our sample.""")
     return
 
 
@@ -460,9 +455,7 @@ def _(financial_df, pd, px):
 
 @app.cell
 def _(mo):
-    mo.md(
-        r"""Since public financial records become available only after the financial year has concluded, our dataset exhibits a noticeable lag. As a result, it captures the period between **2019 and 2023** most reliably, while data for earlier years is sparse and **2024 remains incomplete**."""
-    )
+    mo.md(r"""Since public financial records become available only after the financial year has concluded, our dataset exhibits a noticeable lag. As a result, it captures the period between **2019 and 2023** most reliably, while data for earlier years is sparse and **2024 remains incomplete**.""")
     return
 
 
